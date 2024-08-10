@@ -1,0 +1,1142 @@
+{
+    "0": {
+        "description": "Cold Ashby is a village and civil parish in the Daventry district of the county of Northamptonshire in England. At the time of the 2001 census, the parish's population was 255 people, increasing to 278 at the 2011 census.\n\nCold Ashby is surrounded by rolling farmland, and has a notable golf club. Its population is mainly commuters and their families, although farming is important to the local economy. The village has its own bowls and cricket clubs, and is within the catchment area of the Guilsborough schools. Lying on the contour line Cold Ashby is said to be the highest village in Northamptonshire.\nThe British Ordnance Survey's first trig point, the triangular post used by surveyors, was erected on 18 April 1936 near Cold Ashby. More than 11,000 of the posts were erected across Britain to enable surveyors to create maps accurate to within metres by measuring angles and using trigonometry to calculate distances between the pillars.",
+        "entities": {
+            "0": {
+                "entity name": "Cold Ashby",
+                "located in the administrative territorial entity": "Daventry district",
+                "type": "civil parish"
+            }
+        }
+    },
+    "1": {
+        "description": "Ashbocking is a village and civil parish in the Mid Suffolk district of Suffolk, England. The village is about seven miles north of Ipswich, and according to the 2001 census had a population of 318, increasing to 356 at the 2011 Census.\n\nIn 1326, the Ashbocking All Saints Church was impropriated to the monastery of Christ Church, Canterbury. After the reformation, the patronage of the church passed to the Lord Chancellor. The church building dates back to the 14th century with later additions and was remodelled in 1872.\n\nThe lords of the manor were the Tollemache family of Helmingham Hall. Ashbocking Hall on Church Lane is a Grade II* listed building, with the remains of a medieval moat. The original half-timbered house dates back to the early 16th century, with later additions. \n\nPeter Harold Wright, a recipient of the Victoria Cross during the Second World War, is buried in All Saints churchyard.",
+        "entities": {
+            "0": {
+                "entity name": "Ashbocking",
+                "located in the administrative territorial entity": "Mid Suffolk",
+                "type": "civil parish"
+            }
+        }
+    },
+    "2": {
+        "description": "Bossay-sur-Claise is a commune in the Indre-et-Loire department in central France.",
+        "entities": {
+            "0": {
+                "entity name": "Indre-et-Loire",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "3": {
+        "description": "Crumbs protein homolog 3 is a protein that in humans is encoded by the \"CRB3\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "CRB3",
+                "type": "gene"
+            }
+        }
+    },
+    "4": {
+        "description": "Adolfo is a Brazilian municipality located in the interior of the state of S\u00e3o Paulo in the microregion of S\u00e3o Jos\u00e9 do Rio Preto. The population is 3,623 (2015 est.) in an area of . The municipality was established in 1959.",
+        "entities": {
+            "0": {
+                "entity name": "Adolfo",
+                "located in the administrative territorial entity": "So Paulo",
+                "type": "municipality"
+            }
+        }
+    },
+    "5": {
+        "description": "Cutting Our Teeth is the debut studio album by English post-hardcore band We Are the Ocean, after releasing two EPs. Promotional videos have been made for the songs \"These Days, I Have Nothing\" and \"Look Alive\". A video for \"All of This Has to End\" was recently made and has been highly requested on the Scuzz and Kerrang! music channels. It features noticeably change in Dan Brown's vocal style from the \"self-titled\" EP. \"Cutting Our Teeth\" was re-issued with a bonus disc including 4 previously unreleased songs and 9 previously released songs from the band's two previous EPs.\n\nThe deluxe edition CD featured four new songs produced by Jason Wilson at Stakeout Studios, in addition to the previously sold out 2008 mini-album.\n\nAlthough the title track does not appear on the regular edition of the album, it was released before the album on the \"Look Alive EP\", and was included in the album's deluxe edition bonus disc.",
+        "entities": {
+            "0": {
+                "entity name": "Cutting Our Teeth",
+                "performer": "We Are the Ocean",
+                "type": "studio album"
+            }
+        }
+    },
+    "6": {
+        "description": "Escondeaux is a commune in the Hautes-Pyr\u00e9n\u00e9es department in south-western France.",
+        "entities": {
+            "0": {
+                "entity name": "Hautes-Pyr\u00e9n\u00e9es",
+                "country": "France",
+                "contains administrative territorial entity": "Escondeaux",
+                "type": "department"
+            }
+        }
+    },
+    "7": {
+        "description": "Huacaraje Municipality is a municipality of the Beni Department, Bolivia. ",
+        "entities": {
+            "0": {
+                "entity name": "Huacaraje Municipality",
+                "country": "Bolivia",
+                "type": "municipality"
+            }
+        }
+    },
+    "8": {
+        "description": "Les Moitiers-d'Allonne is a commune in the Manche department in Normandy in north-western France",
+        "entities": {
+            "0": {
+                "entity name": "Les Moitiers-d'Allonne",
+                "located in the administrative territorial entity": "Manche",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Manche",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "9": {
+        "description": "Chaffois is a commune in the Doubs department in the Bourgogne-Franche-Comt\u00e9 region in eastern France.\n\nIt is located about west of Pontarlier and about west of the border with Switzerland.",
+        "entities": {
+            "0": {
+                "entity name": "Chaffois",
+                "located in the administrative territorial entity": "Doubs",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Doubs",
+                "located in the administrative territorial entity": "Bourgogne-Franche-Comt\u00e9",
+                "country": "France",
+                "contains administrative territorial entity": "Chaffois",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "Bourgogne-Franche-Comt\u00e9",
+                "contains administrative territorial entity": "Doubs",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "10": {
+        "description": "Mount Provender () is a conspicuous rock mountain, 900 m, marking the northwest extremity of the Shackleton Range. It was first mapped in 1957 by the Commonwealth Trans-Antarctic Expedition and so named because members of the Commonwealth Trans-Antarctic Expedition established a depot of food and fuel and an airplane camp on the south side of the mountain in 1957 to support sledging parties working in the Shackleton Range.",
+        "entities": {
+            "0": {
+                "entity name": "Mount Provender",
+                "type": "mountain"
+            }
+        }
+    },
+    "11": {
+        "description": "B\u00e9nivay-Ollon is a commune in the Dr\u00f4me department in southeastern France.",
+        "entities": {
+            "0": {
+                "entity name": "B\u00e9nivay-Ollon",
+                "located in the administrative territorial entity": "Dr\u00f4me",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Dr\u00f4me",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "12": {
+        "description": "The Nebelhorn is a mountain in the Allg\u00e4u Alps in Germany, near the village of Oberstdorf. It lends its name to the Nebelhorn Trophy figure skating competition and the Nebelhorn Classics a freeride race event. Also the Nine Knights freeski contest takes place just above the \"H\u00f6fatsblick\" station of the Nebelhornbahn.\n\nIts summit is a well-known viewing point, from where there is a view far into the Alpine massif.\n\nThe summit area of the Nebelhorn may be climbed via the Hindelang Klettersteig; it should only be attempted with special equipment (a 'Klettersteig set').",
+        "entities": {
+            "0": {
+                "entity name": "Nebelhorn",
+                "type": "mountain"
+            }
+        }
+    },
+    "13": {
+        "description": "En anglais is a studio album of the French popular singer Fran\u00e7oise Hardy. Original album released in United Kingdom in October 1968, on LP, Asparagus production/United Artists Records (ULP 1207), mono and (SULP 1207), stereo.\nPublished in France in December 1968, on LP, Production Asparagus/disques Vogue/Vogue international industries (CLD 729), \"st\u00e9r\u00e9o universelle\".",
+        "entities": {
+            "0": {
+                "entity name": "En anglais",
+                "performer": "Fran\u00e7oise Hardy",
+                "type": "studio album"
+            }
+        }
+    },
+    "14": {
+        "description": "Gadjiwan (also Gayivao, G\u0101jiw\u00e1u, Gayivayo, Gayioau, Gajiwau, Gadjwan Gadjiwa) is a village in the commune of Mayo-Bal\u00e9o in the Adamawa Region of Cameroon, near the .",
+        "entities": {
+            "0": {
+                "entity name": "Mayo-Bal\u00e9o",
+                "country": "Cameroon",
+                "type": "commune"
+            }
+        }
+    },
+    "15": {
+        "description": "The Wnt signaling pathways are a group of signal transduction pathways which begin with proteins that pass signals into a cell through cell surface receptors. The name Wnt is a portmanteau created from the names Wingless and Int-1. Wnt signaling pathways use either nearby cell-cell communication (paracrine) or same-cell communication (autocrine). They are highly evolutionarily conserved in animals, which means they are similar across animal species from fruit flies to humans.\n\nThree Wnt signaling pathways have been characterized: the canonical Wnt pathway, the noncanonical planar cell polarity pathway, and the noncanonical Wnt/calcium pathway. All three pathways are activated by the binding of a Wnt-protein ligand to a Frizzled family receptor, which passes the biological signal to the Dishevelled protein inside the cell. The canonical Wnt pathway leads to regulation of gene transcription, and is thought to be negatively regulated in part by the SPATS1 gene. The noncanonical planar cell polarity pathway regulates the cytoskeleton that is responsible for the shape of the cell. The noncanonical Wnt/calcium pathway regulates calcium inside the cell.\n\nWnt signaling was first identified for its role in carcinogenesis, then for its function in embryonic development. The embryonic processes it controls include body axis patterning, cell fate specification, cell proliferation and cell migration. These processes are necessary for proper formation of important tissues including bone, heart and muscle. Its role in embryonic development was discovered when genetic mutations in Wnt pathway proteins produced abnormal fruit fly embryos. Later research found that the genes responsible for these abnormalities also influenced breast cancer development in mice. Wnt signaling also controls tissue regeneration in adult bone marrow, skin and intestine.\n\nThis pathway's clinical importance was demonstrated by mutations that lead to various diseases, including breast and prostate cancer, glioblastoma, type II diabetes and others. In recent years, researchers reported first successful use of Wnt pathway inhibitors in mouse models of disease.",
+        "entities": {
+            "0": {
+                "entity name": "SPATS1",
+                "type": "gene"
+            }
+        }
+    },
+    "16": {
+        "description": "Lapenche is a commune in the Tarn-et-Garonne department in the Occitanie region in southern France.",
+        "entities": {
+            "0": {
+                "entity name": "Lapenche",
+                "located in the administrative territorial entity": "Tarn-et-Garonne",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Tarn-et-Garonne",
+                "located in the administrative territorial entity": "Occitanie",
+                "country": "France",
+                "contains administrative territorial entity": "Lapenche",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "Occitanie",
+                "contains administrative territorial entity": "Tarn-et-Garonne",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "17": {
+        "description": "Dynamin-like 120 kDa protein, mitochondrial is a protein that in humans is encoded by the \"OPA1\" gene. This protein regulates mitochondrial fusion and cristae structure in the inner mitochondrial membrane (IMM) and contributes to ATP synthesis and apoptosis, and small, round mitochondria. Mutations in this gene have been implicated in dominant optic atrophy (DOA), leading to loss in vision, hearing, muscle contraction, and related dysfunctions.\n\n*association kjer-france",
+        "entities": {
+            "0": {
+                "entity name": "OPA1",
+                "type": "gene"
+            }
+        }
+    },
+    "18": {
+        "description": "Berkelland () is a municipality in the Netherlands province of Gelderland. It was created on 1 January 2005 from the merger of the former municipalities of Borculo, Eibergen, Neede, and Ruurlo. The new municipality was named after the Berkel, a small river.",
+        "entities": {
+            "0": {
+                "entity name": "Berkelland",
+                "located in the administrative territorial entity": "Gelderland",
+                "inception": "1 January 2005",
+                "type": "municipality"
+            }
+        }
+    },
+    "19": {
+        "description": "Requeil is a commune in the Sarthe department in the region of Pays de la Loire in north-western France.",
+        "entities": {
+            "0": {
+                "entity name": "Requeil",
+                "located in the administrative territorial entity": "Sarthe",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Sarthe",
+                "located in the administrative territorial entity": "Pays de la Loire",
+                "country": "France",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "Pays de la Loire",
+                "contains administrative territorial entity": "Sarthe",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "20": {
+        "description": "Esparros is a commune in the Hautes-Pyr\u00e9n\u00e9es department in south-western France.",
+        "entities": {
+            "0": {
+                "entity name": "Hautes-Pyr\u00e9n\u00e9es",
+                "country": "France",
+                "contains administrative territorial entity": "Esparros",
+                "type": "department"
+            }
+        }
+    },
+    "21": {
+        "description": "MT-ND2 is a gene of the mitochondrial genome coding for the NADH dehydrogenase 2 (ND2) protein. The ND2 protein is a subunit of NADH dehydrogenase (ubiquinone), which is located in the mitochondrial inner membrane and is the largest of the five complexes of the electron transport chain. Variants of human MT-ND2 are associated with mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS), Leigh's syndrome (LS), Leber's hereditary optic neuropathy (LHON) and increases in adult BMI.",
+        "entities": {
+            "0": {
+                "entity name": "MT-ND2",
+                "type": "gene"
+            }
+        }
+    },
+    "22": {
+        "description": "Saint-Ouen-l'Aum\u00f4ne (, ) is a commune in the northwestern suburbs of Paris, France. It is located from the center of Paris, in the \"new town\" of Cergy-Pontoise, created in the 1960s.",
+        "entities": {
+            "0": {
+                "entity name": "Saint-Ouen-l'Aum\u00f4ne",
+                "type": "commune"
+            }
+        }
+    },
+    "23": {
+        "description": "Lich\u00e8res is a commune in the Charente department in southwestern France. It straddles the river Charente comprising the villages of Lich\u00e9res, La Salle and Puychenin. The village of Lich\u00e9res is home to a 12th-century catholic church dedicated to Saint Denis. Although there is a conventional road bridge across the river Charente near La Salle there is also a very small ferry called a Barque. The Barque is guided by a steel wire with which users propel the boat.",
+        "entities": {
+            "0": {
+                "entity name": "Lich\u00e8res",
+                "located in the administrative territorial entity": "Charente",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Charente",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "24": {
+        "description": "NGC 38 (also known as MCG-1-1-47, Stephan XII, or PGC 818) is a spiral galaxy in the constellation Pisces. It was discovered in 1881.",
+        "entities": {
+            "0": {
+                "entity name": "Pisces",
+                "type": "constellation"
+            }
+        }
+    },
+    "25": {
+        "description": "Locoal-Mendon () is a commune in the Morbihan department of Brittany in north-western France.",
+        "entities": {
+            "0": {
+                "entity name": "Morbihan",
+                "located in the administrative territorial entity": "Brittany",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "26": {
+        "description": "Disintegrin and metalloproteinase domain-containing protein 12 (previously Meltrin) is an enzyme that in humans is encoded by the \"ADAM12\" gene. ADAM12 has two splice variants: ADAM12-L, the long form, has a transmembrane region and ADAM12-S, a shorter variant, is soluble and lacks the transmembrane and cytoplasmic domains.",
+        "entities": {
+            "0": {
+                "entity name": "ADAM12",
+                "type": "gene"
+            }
+        }
+    },
+    "27": {
+        "description": "Putative homeodomain transcription factor 2 is a protein that in humans is encoded by the \"PHTF2\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "PHTF2",
+                "type": "gene"
+            }
+        }
+    },
+    "28": {
+        "description": "The Fl\u00fcela Wisshorn is a mountain of the Silvretta Alps, overlooking the Fl\u00fcela Pass in the Swiss canton of Graub\u00fcnden.",
+        "entities": {
+            "0": {
+                "entity name": "Fl\u00fcela Wisshorn",
+                "located in the administrative territorial entity": "Graub\u00fcnden",
+                "type": "mountain"
+            }
+        }
+    },
+    "29": {
+        "description": "CASPR also known as Contactin associated protein 1, Paranodin and CASPR1 is a protein that in humans is encoded by the CNTNAP1 gene.\nCASPR is a part of the neurexin family of proteins, hence its another name \"Neurexin IV\". CASPR is a membrane protein found in the neuronal membrane in the paranodal section of the axon in myelinated neurons, between the Nodes of Ranvier containing Na+ channels, and juxtaparanode, which contains K+ channels. During myelination, caspr associates with contactin in a \"cis\" complex, though its precise role in myelination is not yet understood.",
+        "entities": {
+            "0": {
+                "entity name": "CASPR",
+                "type": "gene"
+            }
+        }
+    },
+    "30": {
+        "description": "The Festihorn is a mountain of the Swiss Pennine Alps, located west of St. Niklaus in the canton of Valais. It lies on the range south of the Jungtal, between the Sparruhorn and the Wasuhorn.",
+        "entities": {
+            "0": {
+                "entity name": "Festihorn",
+                "located in the administrative territorial entity": "Valais",
+                "type": "mountain"
+            }
+        }
+    },
+    "31": {
+        "description": "Montechiaro d'Acqui is a \"comune\" (municipality) in the Province of Alessandria in the Italian region Piedmont, located about southeast of Turin and about southwest of Alessandria.\n\nMontechiaro d'Acqui borders the following municipalities: Cartosio, Castelletto d'Erro, Denice, Malvicino, Mombaldone, Ponti, and Spigno Monferrato.",
+        "entities": {
+            "0": {
+                "entity name": "Montechiaro d'Acqui",
+                "located in the administrative territorial entity": "Province of Alessandria",
+                "country": "Italian",
+                "type": "comune"
+            }
+        }
+    },
+    "32": {
+        "description": "Rouvres-en-Xaintois is a commune in the Vosges department in Grand Est in northeastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Vosges",
+                "located in the administrative territorial entity": "Grand Est",
+                "country": "France",
+                "contains administrative territorial entity": "Rouvres-en-Xaintois",
+                "type": "department"
+            }
+        }
+    },
+    "33": {
+        "description": "Olfactory receptor 10T2 is a protein that in humans is encoded by the \"OR10T2\" gene.\n\nOlfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+        "entities": {
+            "0": {
+                "entity name": "OR10T2",
+                "type": "gene"
+            }
+        }
+    },
+    "34": {
+        "description": "Ga\u00ebl (Gallo: \"Ga\u00e8u\") is a commune in the Ille-et-Vilaine department in Brittany in northwestern France.\n\nIt lies southwest of Rennes between Saint-M\u00e9en-le-Grand and Mauron. In the 18th century, a fair was held twice a year in August and October.",
+        "entities": {
+            "0": {
+                "entity name": "Ille-et-Vilaine",
+                "located in the administrative territorial entity": "Brittany",
+                "country": "France",
+                "contains administrative territorial entity": "Gal",
+                "type": "department"
+            }
+        }
+    },
+    "35": {
+        "description": "Chloride channel protein 2 is a protein that in humans is encoded by the \"CLCN2\" gene. Mutations of this gene have been found to cause leukoencephalopathy and Idiopathic generalised epilepsy (). CLCN2 contains a transmembrane region that is involved in chloride ion transport as well two intracellular copies of the CBS domain.",
+        "entities": {
+            "0": {
+                "entity name": "CLCN2",
+                "type": "gene"
+            }
+        }
+    },
+    "36": {
+        "description": "Olfactory receptor 1K1 is a protein that in humans is encoded by the \"OR1K1\" gene.\n\nOlfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+        "entities": {
+            "0": {
+                "entity name": "OR1K1",
+                "type": "gene"
+            }
+        }
+    },
+    "37": {
+        "description": "Laruscade is a commune in the Gironde department in Nouvelle-Aquitaine in southwestern France.",
+        "entities": {
+            "0": {
+                "entity name": "Laruscade",
+                "located in the administrative territorial entity": "Gironde",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Gironde",
+                "located in the administrative territorial entity": "Nouvelle-Aquitaine",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "38": {
+        "description": "Liercourt is a commune in the Somme department in Hauts-de-France in northern France.",
+        "entities": {
+            "0": {
+                "entity name": "Somme",
+                "located in the administrative territorial entity": "Hauts-de-France",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "39": {
+        "description": "Torcy-en-Valois is a commune in the Aisne department in Hauts-de-France in northern France.",
+        "entities": {
+            "0": {
+                "entity name": "Torcy-en-Valois",
+                "located in the administrative territorial entity": "Aisne",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Aisne",
+                "located in the administrative territorial entity": "Hauts-de-France",
+                "country": "France",
+                "contains administrative territorial entity": "Torcy-en-Valois",
+                "type": "department"
+            }
+        }
+    },
+    "40": {
+        "description": "APOBEC1 complementation factor is a protein that in humans is encoded by the \"A1CF\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "A1CF",
+                "type": "gene"
+            }
+        }
+    },
+    "41": {
+        "description": "M\u00e9nil-la-Tour is a commune in the Meurthe-et-Moselle department in north-eastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Meurthe-et-Moselle",
+                "country": "France",
+                "contains administrative territorial entity": "M\u00e9nil-la-Tour",
+                "type": "department"
+            }
+        }
+    },
+    "42": {
+        "description": "Aiello del Friuli () is a \"comune\" (municipality) in the Italian region Friuli-Venezia Giulia, located about northwest of Trieste and about southeast of Udine. \nAiello del Friuli borders the following municipalities: Bagnaria Arsa, Campolongo al Torre, Cervignano del Friuli, Ruda, San Vito al Torre, Visco.\n\nJoannis is the birthplace of Enzo Bearzot, former Italian football player and manager, who won the 1982 FIFA World Cup as coach.",
+        "entities": {
+            "0": {
+                "entity name": "Aiello del Friuli",
+                "type": "comune"
+            }
+        }
+    },
+    "43": {
+        "description": "Veitsrodt is an \"Ortsgemeinde\" \u2013 a municipality belonging to a \"Verbandsgemeinde\", a kind of collective municipality \u2013 in the Birkenfeld district in Rhineland-Palatinate, Germany. It belongs to the \"Verbandsgemeinde\" Herrstein-Rhaunen, whose seat is in Herrstein.",
+        "entities": {
+            "0": {
+                "entity name": "Veitsrodt",
+                "located in the administrative territorial entity": "Birkenfeld",
+                "country": "Germany",
+                "type": "municipality"
+            }
+        }
+    },
+    "44": {
+        "description": "Weislingen is a commune in the Bas-Rhin department in Grand Est in north-eastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Weislingen",
+                "located in the administrative territorial entity": "Bas-Rhin",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Bas-Rhin",
+                "located in the administrative territorial entity": "Grand Est",
+                "country": "France",
+                "contains administrative territorial entity": "Weislingen",
+                "type": "department"
+            }
+        }
+    },
+    "45": {
+        "description": "Paparazzi Lightning is a second studio album by Ghostland Observatory released in January 2006 under Trashy Moped Recordings.",
+        "entities": {
+            "0": {
+                "entity name": "Paparazzi Lightning",
+                "performer": "Ghostland Observatory",
+                "type": "studio album"
+            }
+        }
+    },
+    "46": {
+        "description": "MicroRNA 6850 is a protein that in humans is encoded by the MIR6850 gene.",
+        "entities": {
+            "0": {
+                "entity name": "MIR6850",
+                "type": "gene"
+            }
+        }
+    },
+    "47": {
+        "description": "Neauphle-le-Vieux () is a commune in the Yvelines department in the \u00cele-de-France region in north-central France.",
+        "entities": {
+            "0": {
+                "entity name": "Yvelines",
+                "located in the administrative territorial entity": "\u00cele-de-France",
+                "country": "France",
+                "contains administrative territorial entity": "Neauphle-le-Vieux",
+                "type": "department"
+            },
+            "1": {
+                "entity name": "\u00cele-de-France",
+                "contains administrative territorial entity": "Yvelines",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "48": {
+        "description": "Lancrans is a former commune in the Ain department in eastern France. On 1 January 2019, it was merged into the new commune of Valserh\u00f4ne.",
+        "entities": {
+            "0": {
+                "entity name": "Lancrans",
+                "located in the administrative territorial entity": "Ain",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Ain",
+                "country": "France",
+                "contains administrative territorial entity": "Lancrans",
+                "type": "department"
+            }
+        }
+    },
+    "49": {
+        "description": "Macrophage-capping protein (CAPG) also known as actin regulatory protein CAP-G is a protein that in humans is encoded by the CAPG gene.",
+        "entities": {
+            "0": {
+                "entity name": "Macrophage-capping protein",
+                "type": "gene"
+            }
+        }
+    },
+    "50": {
+        "description": "Suckley is a village and civil parish in the Malvern Hills District in the county of Worcestershire, England, close to the border with Herefordshire. The parish includes the hamlets of Suckley Knowl (at ), Suckley Green at and Longley Green at .\n\nCovering , Suckley is geographically one of the largest parishes in Worcestershire, but one of the least populated with only around 250 residences. Seven farms use the greater part of the available land, producing apples, beef, cereals, hops, milk, oil seed rape, pears and potatoes. The eastern side of the Parish is part of the Malvern Hills Area of Outstanding Natural Beauty. Within Suckley there are several dozen micro-businesses operating from private homes, ranging from beauty therapy to furniture restoration, from computer maintenance to interior design, from motor mechanics to plumbing. Most of the population in employment commute to Malvern, Worcester, Hereford, Cheltenham or the West Midlands.\n\nThe parish's population increased from 549 to 599 between the 2001 and 2011 censuses, the increase being entirely attributable to older age groups. The population of school age reduced sharply over the decade. 2011 census data shows a population with above average levels of educational attainment, lower than average unemployment and levels of poverty.\nCar ownership is at a very high level (535 cars or vans for a population of 506 aged 17 or over), with only 5 households of 262 not having access to a car.\n\nA summary parish profile has been created by Malvern Hills District Council.",
+        "entities": {
+            "0": {
+                "entity name": "Suckley",
+                "located in the administrative territorial entity": "Malvern Hills District",
+                "type": "civil parish"
+            }
+        }
+    },
+    "51": {
+        "description": "Uncharacterized protein C2orf73 is a protein that in humans is encoded by the \"C2orf73\" gene. The protein is predicted to be localized to the nucleus.",
+        "entities": {
+            "0": {
+                "entity name": "C2orf73",
+                "type": "gene"
+            }
+        }
+    },
+    "52": {
+        "description": "Montignac-de-Lauzun is a commune in the Lot-et-Garonne department in south-western France.",
+        "entities": {
+            "0": {
+                "entity name": "Montignac-de-Lauzun",
+                "located in the administrative territorial entity": "Lot-et-Garonne",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Lot-et-Garonne",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "53": {
+        "description": "S\u00e9gbana is a town, arrondissement and commune located in the Alibori Department of Benin.The commune covers an area of 4471 square kilometres and as of 2013 had a population of 89,268 people.",
+        "entities": {
+            "0": {
+                "entity name": "S\u00e9gbana",
+                "located in the administrative territorial entity": "Alibori Department",
+                "type": "commune"
+            }
+        }
+    },
+    "54": {
+        "description": "Sad Happy is the fourth studio album by British indie rock band Circa Waves. The album was released as a double album with \"Happy\" being released on 10 January 2020 and \"Sad\" being released on 13 March 2020.",
+        "entities": {
+            "0": {
+                "entity name": "Sad Happy",
+                "performer": "Circa Waves",
+                "type": "studio album"
+            }
+        }
+    },
+    "55": {
+        "description": "Merl\u00e9ac () is a commune in the C\u00f4tes-d'Armor department of Brittany in northwestern France.",
+        "entities": {
+            "0": {
+                "entity name": "Merl\u00e9ac",
+                "located in the administrative territorial entity": "C\u00f4tes-d'Armor",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "C\u00f4tes-d'Armor",
+                "located in the administrative territorial entity": "Brittany",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "56": {
+        "description": "60S ribosomal protein L7a is a protein that in humans is encoded by the \"RPL7A\" gene.\n\nCytoplasmic ribosomes, organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L7AE family of ribosomal proteins. It can interact with a subclass of nuclear hormone receptors, including thyroid hormone receptor, and inhibit their ability to transactivate by preventing their binding to their DNA response elements. This gene is included in the surfeit gene cluster, a group of very tightly linked genes that do not share sequence similarity. It is co-transcribed with the U24, U36a, U36b, and U36c small nucleolar RNA genes, which are located in its second, fifth, fourth, and sixth introns, respectively. This gene rearranges with the trk proto-oncogene to form the chimeric oncogene trk-2h, which encodes an oncoprotein consisting of the N terminus of ribosomal protein L7a fused to the receptor tyrosine kinase domain of trk. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome.",
+        "entities": {
+            "0": {
+                "entity name": "60S ribosomal protein L7a",
+                "type": "gene"
+            }
+        }
+    },
+    "57": {
+        "description": "Viaggio Italiano is Andrea Bocelli's third studio album and first classical album.\n\nThe album features some of the most popular opera arias and Neapolitan songs of all time, such as Nessun Dorma, O Sole Mio and la Donna \u00e8 Mobile. Although released only in Italy in 1996, it sold close to 300,000 copies. Bocelli later received the ECHO Klassik \"Best seller of the year\" award for the album, after its international release, in 1997.",
+        "entities": {
+            "0": {
+                "entity name": "Viaggio Italiano",
+                "performer": "Andrea Bocelli",
+                "type": "studio album"
+            }
+        }
+    },
+    "58": {
+        "description": "AP-4 complex subunit beta-1 is a protein that in humans is encoded by the \"AP4B1\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "AP4B1",
+                "type": "gene"
+            }
+        }
+    },
+    "59": {
+        "description": "Serine-threonine kinase receptor-associated protein is an enzyme that in humans is encoded by the \"STRAP\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "STRAP",
+                "type": "gene"
+            }
+        }
+    },
+    "60": {
+        "description": "\u00c9milie Chalas (born 18 October 1977) is a French politician of La R\u00e9publique En Marche! (LREM) who was elected to the French National Assembly on 18 June 2017, representing the department of Is\u00e8re.",
+        "entities": {
+            "0": {
+                "entity name": "Is\u00e8re",
+                "type": "department"
+            }
+        }
+    },
+    "61": {
+        "description": "Saint-Avit-de-Tardes is a commune in the Creuse department in central France.",
+        "entities": {
+            "0": {
+                "entity name": "Creuse",
+                "country": "France",
+                "contains administrative territorial entity": "Saint-Avit-de-Tardes",
+                "type": "department"
+            }
+        }
+    },
+    "62": {
+        "description": "Killeedy (Cill \u00cdde) is a civil parish located south of Newcastle West in Co. Limerick in Ireland. This parish consists of two villages, Ashford and Raheenagh. The elevation of the parish varies from 1,184\u00a0ft. OS at Mauricetown and 1,082\u00a0ft. at Dromdeeveen to 200\u00a0ft. OS at Ballintubber. The parish is overlooked by the Mullaghareirk Mountains. The patron saint of Killeedy is Saint Ita. Killeedy used to be known as Cluain Chreadhail but in later ages it had taken the name of Cill \u00edde, the Church of Saint Ita, from a nunnery which was founded there in the sixth century. On 15 January of each year, the feast of St. Ita's Day is celebrated in Killeedy.",
+        "entities": {
+            "0": {
+                "entity name": "Killeedy",
+                "located in the administrative territorial entity": "Co. Limerick",
+                "type": "civil parish"
+            }
+        }
+    },
+    "63": {
+        "description": "Calcium-activated potassium channel subunit alpha-1 also known as large conductance calcium-activated potassium channel, subfamily M, alpha member 1 (KCa1.1), or BK channel alpha subunit, is a voltage gated potassium channel encoded by the KCNMA1 gene and characterized by their large conductance of potassium ions (K+) through cell membranes.",
+        "entities": {
+            "0": {
+                "entity name": "KCNMA1",
+                "type": "gene"
+            }
+        }
+    },
+    "64": {
+        "description": "Fiorenzuola d'Arda (; , ) is a city and \"comune\" in Italy in the province of Piacenza, part of the Emilia-Romagna region. Its name derives from \"Florentia\" (\"prosperous\" in Latin). The \"d'Arda\" portion refers to the River Arda which flows from the Apennines into the valley where Fiorenzuola is situated. Fiorenzuola's origins are old, dating from the first prehistorical human settlements in Italy.",
+        "entities": {
+            "0": {
+                "entity name": "Fiorenzuola d'Arda",
+                "located in the administrative territorial entity": "province of Piacenza",
+                "type": "comune"
+            }
+        }
+    },
+    "65": {
+        "description": "Streetcore is the third and final studio album by Joe Strummer & the Mescaleros. The album was completed after the death of frontman Joe Strummer, primarily by Martin Slattery and Scott Shields, and released on 21 October 2003. The album marks the band's transition from their previous genre-bending work to a more straightforward rock album, reminiscent of Strummer's early work with The Clash. The album received a positive critical reception and is generally seen as a return to form and a high point for Strummer to have gone out on.\n\nA remastered version of the album along with Strummer's other two Hellcat released albums was released as a special 57 song digital download titled \"Joe Strummer & The Mescaleros: The Hellcat Years\" on 21 August 2012 to celebrate what would have been Strummer's 60th birthday. Hellcat also released each remastered album individually on CD and vinyl on 25 September 2012. ",
+        "entities": {
+            "0": {
+                "entity name": "Streetcore",
+                "performer": "Joe Strummer & the Mescaleros",
+                "type": "studio album"
+            }
+        }
+    },
+    "66": {
+        "description": "Chevanceaux is a commune in the Charente-Maritime department in the Nouvelle-Aquitaine region in southwestern France.",
+        "entities": {
+            "0": {
+                "entity name": "Chevanceaux",
+                "located in the administrative territorial entity": "Charente-Maritime",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Charente-Maritime",
+                "located in the administrative territorial entity": "Nouvelle-Aquitaine",
+                "country": "France",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "Nouvelle-Aquitaine",
+                "contains administrative territorial entity": "Charente-Maritime",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "67": {
+        "description": "Bougneau is a commune in the Charente-Maritime department in southwestern France.",
+        "entities": {
+            "0": {
+                "entity name": "Bougneau",
+                "located in the administrative territorial entity": "Charente-Maritime",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Charente-Maritime",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "68": {
+        "description": "Mount Frederick William is a mountain located at the Queen Reach arm of the Jervis Inlet within the Pacific Ranges of the Coast Mountains in British Columbia Canada. The mountain was named during the 1860 survey by which charted all of the area and named the mountain after the Prussian Crown Prince Frederick William, who had married Princess Victoria, the eldest child of Queen Victoria and Prince Albert.\n\nThis mountain has been given the nickname of Frankenstein for it has the familiar profile of the famous monster's face. ",
+        "entities": {
+            "0": {
+                "entity name": "Mount Frederick William",
+                "located in the administrative territorial entity": "British Columbia",
+                "type": "mountain"
+            }
+        }
+    },
+    "69": {
+        "description": "Roccadaspide (Campanian: ) is a town and \"comune\" in the province of Salerno in the Campania region of south-western Italy.",
+        "entities": {
+            "0": {
+                "entity name": "Roccadaspide",
+                "located in the administrative territorial entity": "province of Salerno",
+                "type": "comune"
+            }
+        }
+    },
+    "70": {
+        "description": "Perton is a large village and civil parish located in the South Staffordshire District, Staffordshire, England. It lies 3 miles to the south of Codsall and 5 miles west of Wolverhampton, where part of the village is almost contiguous with the city. The name Perton is derived from 'Pear Town' due to the number of pear trees that once grew there.The settlement is often protected from outsiders by resident hard man and 6am alarm king Jamie Ward.",
+        "entities": {
+            "0": {
+                "entity name": "Perton",
+                "located in the administrative territorial entity": "South Staffordshire District",
+                "type": "civil parish"
+            }
+        }
+    },
+    "71": {
+        "description": "Itagua\u00e7u da Bahia is a municipality in the state of Bahia in the North-East region of Brazil. It covers , and has a population of 14,542 with a population density of 3.3 inhabitants per square kilometer.",
+        "entities": {
+            "0": {
+                "entity name": "Itagua\u00e7u da Bahia",
+                "located in the administrative territorial entity": "Bahia",
+                "type": "municipality"
+            }
+        }
+    },
+    "72": {
+        "description": "Mount Marion is a mountain located in the Catskill Mountains of New York north of Kingston. Mount Airy is located north-northeast, Overlook Mountain is located west-northwest, and Halihan Hill is located south-southwest of Mount Marion.",
+        "entities": {
+            "0": {
+                "entity name": "Mount Marion",
+                "type": "mountain"
+            }
+        }
+    },
+    "73": {
+        "description": "Mount Jacobsen, 3031 m (9944 feet), is a mountain in the northernmost Pacific Ranges of the Coast Mountains in the Central Coast region of British Columbia, Canada, located to the south of the Bella Coola Valley and immediately south of Ape Lake, to the west of the valley of the Talchako River. \n\nThe Noeick River begins at the Noeick Glacier on the northwest side of the peak at . In the same massif and immediately west of the peak of Mount Jacobsen is West Jacobsen Peak, 2971 m (9747 feet) at . Ape Glacier, named in association with Ape Lake and Ape Mountain, is on the north side of the Jacobsen massif. at .",
+        "entities": {
+            "0": {
+                "entity name": "Mount Jacobsen",
+                "located in the administrative territorial entity": "British Columbia",
+                "country": "Canada",
+                "type": "mountain"
+            }
+        }
+    },
+    "74": {
+        "description": "Z'Goum is a village in the commune of Hassani Abdelkrim, in Debila District, El Oued Province, Algeria. The village is located just to the east of the N16 highway adjacent to Hassani Abdelkrim.",
+        "entities": {
+            "0": {
+                "entity name": "Hassani Abdelkrim",
+                "located in the administrative territorial entity": "Debila District",
+                "country": "Algeria",
+                "type": "commune"
+            }
+        }
+    },
+    "75": {
+        "description": "Jamlitz () is a municipality in the district of Dahme-Spreewald in Brandenburg in Germany.",
+        "entities": {
+            "0": {
+                "entity name": "Jamlitz",
+                "located in the administrative territorial entity": "Dahme-Spreewald",
+                "country": "Germany",
+                "type": "municipality"
+            }
+        }
+    },
+    "76": {
+        "description": "Th\u00e9zy-Glimont is a commune in the Somme department in Hauts-de-France in northern France.",
+        "entities": {
+            "0": {
+                "entity name": "Somme",
+                "located in the administrative territorial entity": "Hauts-de-France",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "77": {
+        "description": "Ferrussac is a commune in the Haute-Loire department in south-central France.",
+        "entities": {
+            "0": {
+                "entity name": "Ferrussac",
+                "located in the administrative territorial entity": "Haute-Loire",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Haute-Loire",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "78": {
+        "description": "Cannelle is a commune in the Corse-du-Sud department of France on the island of Corsica.",
+        "entities": {
+            "0": {
+                "entity name": "Cannelle",
+                "located in the administrative territorial entity": "Corse-du-Sud",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Corse-du-Sud",
+                "located in the administrative territorial entity": "Corsica",
+                "type": "department"
+            }
+        }
+    },
+    "79": {
+        "description": "Villecey-sur-Mad is a commune in the Meurthe-et-Moselle department in north-eastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Meurthe-et-Moselle",
+                "country": "France",
+                "contains administrative territorial entity": "Villecey-sur-Mad",
+                "type": "department"
+            }
+        }
+    },
+    "80": {
+        "description": "Make Way for Love is the second studio album by New Zealand musician Marlon Williams. It was released 16 February 2018 under Dead Oceans.",
+        "entities": {
+            "0": {
+                "entity name": "Make Way for Love",
+                "performer": "Marlon Williams",
+                "type": "studio album"
+            }
+        }
+    },
+    "81": {
+        "description": "Moldova-Suli\u021ba is a commune located in Suceava County, Romania. It is composed of two villages, Benia and Moldova-Suli\u021ba.",
+        "entities": {
+            "0": {
+                "entity name": "Moldova-Suli\u021ba",
+                "located in the administrative territorial entity": "Suceava County",
+                "type": "commune"
+            }
+        }
+    },
+    "82": {
+        "description": "Hilborough is a village and a civil parish in the English county of Norfolk. The village is south of Swaffham, west-southwest of Norwich and north-northeast of London.\n\nThe population of the parish (including Bodney) at the 2011 Census was 243. The village straddles the A1065 between Swaffham and Brandon. The nearest railway station is at Brandon for the Breckland Line which runs between Cambridge and Norwich.",
+        "entities": {
+            "0": {
+                "entity name": "Hilborough",
+                "type": "civil parish"
+            }
+        }
+    },
+    "83": {
+        "description": "Albens is a former commune in the Savoie department in the Auvergne-Rh\u00f4ne-Alpes region in south-eastern France. On 1 January 2016, it was merged into the new commune of Entrelacs.",
+        "entities": {
+            "0": {
+                "entity name": "Savoie",
+                "located in the administrative territorial entity": "Auvergne-Rh\u00f4ne-Alpes",
+                "country": "France",
+                "type": "department"
+            },
+            "1": {
+                "entity name": "Auvergne-Rh\u00f4ne-Alpes",
+                "contains administrative territorial entity": "Savoie",
+                "country": "France",
+                "type": "region"
+            }
+        }
+    },
+    "84": {
+        "description": "Pregny-Chamb\u00e9sy is a commune in the canton of Geneva in Switzerland. It is located directly north of the city of Geneva, on the south-western shore of Lake Geneva.\n\nA number of foreign permanent missions are located in Pregny-Chamb\u00e9sy due to its proximity to most of Geneva's United Nations organizations and agencies as well as Geneva International Airport.",
+        "entities": {
+            "0": {
+                "entity name": "Pregny-Chamb\u00e9sy",
+                "located in the administrative territorial entity": "Geneva",
+                "type": "commune"
+            }
+        }
+    },
+    "85": {
+        "description": "Sleeping Through the War is the fourth studio album by American band All Them Witches. It was released in February 2017 under New West Records.",
+        "entities": {
+            "0": {
+                "entity name": "Sleeping Through the War",
+                "performer": "All Them Witches",
+                "type": "studio album"
+            }
+        }
+    },
+    "86": {
+        "description": "NGC 3766 (also known as Caldwell 97) is an open star cluster in the southern constellation Centaurus. It is located in the vast star-forming region known as the Carina molecular cloud, and was discovered by Nicolas Louis de Lacaille during his astrometric survey in 1751\u20131752. At a distance of about 1745 pc, the cluster subtends a diameter of about 12 minutes of arc.\n\nThere are 137 listed stars, but many are likely non-members, with only 36 having accurate photometric data. Total apparent magnitude of 5.3 and integrated spectral type of B1.7. NGC 3766 is relatively young that is estimated as log (7.160) or 14.4 million years, and approaching us at 14.8\u00a0km/s. This cluster contains eleven Be stars, two red supergiants and four Ap stars.\n\n36 examples of an unusual type of variable star were discovered in the cluster. These fast-rotating pulsating B-type stars vary by only a few hundredths of a magnitude with periods less than half a day. They are main sequence stars, hotter than \u03b4 Scuti variables and cooler than slowly pulsating B stars.",
+        "entities": {
+            "0": {
+                "entity name": "Centaurus",
+                "type": "constellation"
+            }
+        }
+    },
+    "87": {
+        "description": "Courgivaux is a commune in the Marne department in north-eastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Courgivaux",
+                "located in the administrative territorial entity": "Marne",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Marne",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "88": {
+        "description": "Castelnau-d'Estr\u00e9tefonds is a commune in the Haute-Garonne department in southwestern France.",
+        "entities": {
+            "0": {
+                "entity name": "Haute-Garonne",
+                "country": "France",
+                "contains administrative territorial entity": "Castelnau-d'Estr\u00e9tefonds",
+                "type": "department"
+            }
+        }
+    },
+    "89": {
+        "description": "CD226 (Cluster of Differentiation 226), PTA1 (outdated term, 'platelet and T cell activation antigen 1') or DNAM-1 (DNAX Accessory Molecule-1) is a protein that in humans is encoded by the \"CD226\" gene which is located on chromosome 18q22.3.",
+        "entities": {
+            "0": {
+                "entity name": "CD226",
+                "type": "gene"
+            }
+        }
+    },
+    "90": {
+        "description": "Niederscheidweiler is an \"Ortsgemeinde\" \u2013 a municipality belonging to a \"Verbandsgemeinde\", a kind of collective municipality \u2013 in the Bernkastel-Wittlich district in Rhineland-Palatinate, Germany.",
+        "entities": {
+            "0": {
+                "entity name": "Niederscheidweiler",
+                "located in the administrative territorial entity": "Bernkastel-Wittlich",
+                "country": "Germany",
+                "type": "municipality"
+            }
+        }
+    },
+    "91": {
+        "description": "Sal\u00e9on is a commune in the Hautes-Alpes department in southeastern France.",
+        "entities": {
+            "0": {
+                "entity name": "Hautes-Alpes",
+                "country": "France",
+                "contains administrative territorial entity": "Sal\u00e9on",
+                "type": "department"
+            }
+        }
+    },
+    "92": {
+        "description": "Le Catelier is a commune in the Seine-Maritime department in the Normandy region in northern France.",
+        "entities": {
+            "0": {
+                "entity name": "Le Catelier",
+                "located in the administrative territorial entity": "Seine-Maritime",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Seine-Maritime",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "93": {
+        "description": "F-box only protein 6 is a protein that in humans is encoded by the \"FBXO6\" gene.\n\nThis gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class, and its C-terminal region is highly similar to that of rat NFB42 (neural F Box 42 kDa) which may be involved in the control of the cell cycle.",
+        "entities": {
+            "0": {
+                "entity name": "FBXO6",
+                "type": "gene"
+            }
+        }
+    },
+    "94": {
+        "description": "Tresnay is a commune in the Ni\u00e8vre department in central France.",
+        "entities": {
+            "0": {
+                "entity name": "Tresnay",
+                "located in the administrative territorial entity": "Ni\u00e8vre",
+                "type": "commune"
+            },
+            "1": {
+                "entity name": "Ni\u00e8vre",
+                "country": "France",
+                "type": "department"
+            }
+        }
+    },
+    "95": {
+        "description": "Morfasso (Piacentino: ; locally ) is a \"comune\" (municipality) in the Province of Piacenza in the Italian region Emilia-Romagna, located about west of Bologna and about south of Piacenza. As of 31 December 2011, it had a population of 1,090 and an area of .\n\nThe municipality of Morfasso contains the \"frazioni\" (subdivisions, mainly villages and hamlets) Rusteghini, Greghi, Casali, Monastero, Pedina, San Michele, Sperongia, and Teruzzi.\n\nMorfasso borders the following municipalities: Bardi, Bettola, Bore, Farini, Gropparello, Lugagnano Val d'Arda, Vernasca.",
+        "entities": {
+            "0": {
+                "entity name": "Morfasso",
+                "located in the administrative territorial entity": "Province of Piacenza",
+                "type": "comune"
+            }
+        }
+    },
+    "96": {
+        "description": "\"Land of Sunshine\" is the opening track to \"Angel Dust\", the fourth studio album by the American rock band Faith No More. It was released as a promotional single in 1992 along with \"Midlife Crisis\" and has been compared in its opening style to \"From out of Nowhere\", the opening track and first single from the band's previous studio album, \"The Real Thing\". The song's lyrics contain, amongst other things, questions from Scientology personality tests, with one of them, the question \"Does emotional music have quite an effect on you?\", being described by Tom Sinclair of \"Rolling Stone\" as \"the perfect tag line for \"Angel Dust\"\u2009\". The song was one of the three key songs picked out by Robert Christgau from the album in his review, the two others being \"Midlife Crisis\" and \"Midnight Cowboy\".",
+        "entities": {
+            "0": {
+                "entity name": "Angel Dust",
+                "performer": "Faith No More",
+                "publication date": "1992",
+                "type": "studio album"
+            }
+        }
+    },
+    "97": {
+        "description": "Obere Warnow is a municipality in the Ludwigslust-Parchim district, in Mecklenburg-Vorpommern, Germany. It was formed on 1 January 2012 by the merger of the former municipalities Grebbin and Herzberg. It takes its name from the river Warnow, that has its source near Grebbin.",
+        "entities": {
+            "0": {
+                "entity name": "Obere Warnow",
+                "located in the administrative territorial entity": "Ludwigslust-Parchim",
+                "country": "Germany",
+                "type": "municipality"
+            }
+        }
+    },
+    "98": {
+        "description": "Probable cation-transporting ATPase 13A3 is an enzyme that in humans is encoded by the \"ATP13A3\" gene.",
+        "entities": {
+            "0": {
+                "entity name": "ATP13A3",
+                "type": "gene"
+            }
+        }
+    },
+    "99": {
+        "description": "Trissino is a \"comune\" in the province of Vicenza, in northern Italy. Its mayor is Davide Faccio (member of Lega Nord, right). The town is famous all over Italy for its hockey team, the Gruppo Sportivo Hockey Trissino.",
+        "entities": {
+            "0": {
+                "entity name": "Trissino",
+                "located in the administrative territorial entity": "province of Vicenza",
+                "type": "comune"
+            }
+        }
+    }
+}

@@ -1,0 +1,300 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.2
+    framework: huggingface
+    huggingface_version: 4.10.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    m:
+    - 1: trainer/global_step
+      6:
+      - 3
+    - 1: LearningRateScheduler-polynomial/pg1
+      5: 1
+      6:
+      - 1
+    - 1: LearningRateScheduler-polynomial/pg2
+      5: 1
+      6:
+      - 1
+    - 1: train-nll_loss
+      5: 1
+      6:
+      - 1
+    - 1: epoch
+      5: 1
+      6:
+      - 1
+    - 1: val-nll_loss
+      5: 1
+      6:
+      - 1
+    python_version: 3.8.19
+    start_time: 1717983671
+    t:
+      1:
+      - 1
+      - 9
+      - 11
+      3:
+      - 13
+      4: 3.8.19
+      5: 0.12.2
+      6: 4.10.0
+      8:
+      - 5
+callbacks/learning_rate_monitor/_target_:
+  desc: null
+  value: pytorch_lightning.callbacks.LearningRateMonitor
+callbacks/learning_rate_monitor/logging_interval:
+  desc: null
+  value: step
+callbacks/model_checkpoint/_target_:
+  desc: null
+  value: pytorch_lightning.callbacks.ModelCheckpoint
+callbacks/model_checkpoint/auto_insert_metric_name:
+  desc: null
+  value: false
+callbacks/model_checkpoint/dirpath:
+  desc: null
+  value: checkpoints/
+callbacks/model_checkpoint/filename:
+  desc: null
+  value: model-epoch_{epoch:03d}-step_{step:04d}-val_nll_loss_{val-nll_loss:.4f}
+callbacks/model_checkpoint/mode:
+  desc: null
+  value: min
+callbacks/model_checkpoint/monitor:
+  desc: null
+  value: val-nll_loss
+callbacks/model_checkpoint/save_last:
+  desc: null
+  value: true
+callbacks/model_checkpoint/save_on_train_epoch_end:
+  desc: null
+  value: false
+callbacks/model_checkpoint/save_top_k:
+  desc: null
+  value: 3
+callbacks/model_checkpoint/verbose:
+  desc: null
+  value: false
+data_dir:
+  desc: null
+  value: /home/admin1/Documents/GenIE/data/
+datamodule/_target_:
+  desc: null
+  value: genie.datamodule.datasets_pl.DataModule
+datamodule/batch_size:
+  desc: null
+  value: 1
+datamodule/data_dir:
+  desc: null
+  value: /home/admin1/Documents/GenIE/data/nyt
+datamodule/dataset_name:
+  desc: null
+  value: nyt
+datamodule/matching_status:
+  desc: null
+  value: title
+datamodule/num_workers:
+  desc: null
+  value: 10
+datamodule/padding:
+  desc: null
+  value: true
+datamodule/pin_memory:
+  desc: null
+  value: false
+datamodule/relations_to_keep:
+  desc: null
+  value: None
+datamodule/seed:
+  desc: null
+  value: 123
+datamodule/target_paddding_token_id:
+  desc: null
+  value: -100
+datamodule/truncation:
+  desc: null
+  value: true
+debug:
+  desc: null
+  value: false
+debug_ckpt_path:
+  desc: null
+  value: None
+logger/wandb/_target_:
+  desc: null
+  value: pytorch_lightning.loggers.wandb.WandbLogger
+logger/wandb/group:
+  desc: null
+  value: ''
+logger/wandb/id:
+  desc: null
+  value: None
+logger/wandb/job_type:
+  desc: null
+  value: train
+logger/wandb/log_model:
+  desc: null
+  value: false
+logger/wandb/name:
+  desc: null
+  value: train_t5-base-NYT-full
+logger/wandb/notes:
+  desc: null
+  value: None
+logger/wandb/offline:
+  desc: null
+  value: false
+logger/wandb/project:
+  desc: null
+  value: GenIE
+logger/wandb/save_dir:
+  desc: null
+  value: .
+logger/wandb/tags:
+  desc: null
+  value: []
+mode:
+  desc: null
+  value: train
+model/_target_:
+  desc: null
+  value: genie.models.genie_base_pl.GeniePL
+model/adam_eps:
+  desc: null
+  value: 1.0e-08
+model/bos_as_first_token_generated:
+  desc: null
+  value: true
+model/eps:
+  desc: null
+  value: 0.1
+model/inference/entity_trie_path:
+  desc: null
+  value: /home/admin1/Documents/GenIE/data/tries/entity_trie.pickle
+model/inference/free_generation:
+  desc: null
+  value: false
+model/inference/hf_generation_params/early_stopping:
+  desc: null
+  value: true
+model/inference/hf_generation_params/encoder_no_repeat_ngram_size:
+  desc: null
+  value: 0
+model/inference/hf_generation_params/length_penalty:
+  desc: null
+  value: 1.0
+model/inference/hf_generation_params/max_length:
+  desc: null
+  value: 512
+model/inference/hf_generation_params/min_length:
+  desc: null
+  value: 0
+model/inference/hf_generation_params/no_repeat_ngram_size:
+  desc: null
+  value: 0
+model/inference/hf_generation_params/num_beams:
+  desc: null
+  value: 10
+model/inference/hf_generation_params/num_return_sequences:
+  desc: null
+  value: 10
+model/inference/hf_generation_params/temperature:
+  desc: null
+  value: 1.0
+model/inference/relation_trie_path:
+  desc: null
+  value: /home/admin1/Documents/GenIE/data/tries/relation_trie.pickle
+model/inference/save_full_beams:
+  desc: null
+  value: false
+model/inference/save_testing_data:
+  desc: null
+  value: true
+model/inference/seed:
+  desc: null
+  value: 123
+model/inference/verbose_flag_in_convert_to_triple:
+  desc: null
+  value: false
+model/lr:
+  desc: null
+  value: 0.0001
+model/lr_end:
+  desc: null
+  value: 0.0
+model/max_input_length:
+  desc: null
+  value: 512
+model/max_output_length:
+  desc: null
+  value: 512
+model/model_name_or_path:
+  desc: null
+  value: t5-base
+model/params_not_trainable:
+  desc: null
+  value: 0
+model/params_total:
+  desc: null
+  value: 222903552
+model/params_trainable:
+  desc: null
+  value: 222903552
+model/schedule_name:
+  desc: null
+  value: polynomial
+model/total_num_updates:
+  desc: null
+  value: 150000
+model/warmup_updates:
+  desc: null
+  value: 1000
+model/weight_decay:
+  desc: null
+  value: 0
+run_name:
+  desc: null
+  value: train_t5-base-NYT-full
+seed:
+  desc: null
+  value: 123
+test_after_training:
+  desc: null
+  value: false
+trainer/_target_:
+  desc: null
+  value: pytorch_lightning.Trainer
+trainer/accumulate_grad_batches:
+  desc: null
+  value: 1
+trainer/gpus:
+  desc: null
+  value: 1
+trainer/gradient_clip_algorithm:
+  desc: null
+  value: norm
+trainer/gradient_clip_val:
+  desc: null
+  value: 0.1
+trainer/max_steps:
+  desc: null
+  value: 150000
+trainer/progress_bar_refresh_rate:
+  desc: null
+  value: 5
+trainer/resume_from_checkpoint:
+  desc: null
+  value: None
+trainer/val_check_interval:
+  desc: null
+  value: 5000
+trainer/weights_summary:
+  desc: null
+  value: None

@@ -1,0 +1,1107 @@
+{
+    "0": {
+        "description": "But that spasm of irritation by a master intimidator was minor compared with what Bobby Fischer , the erratic former world chess champion , dished out in March at a news conference in Reykjavik , Iceland .",
+        "entities": {
+            "0": {
+                "entity name": "Iceland",
+                "capital": "Reykjavik",
+                "contains": "Reykjavik",
+                "type": "location"
+            }
+        }
+    },
+    "1": {
+        "description": "But Schaap seems as comfortable in that role as Joe Buck , the Fox baseball and football sportscaster who so clearly benefited from learning beside his father , Jack Buck , the late voice of the St. Louis Cardinals . ''",
+        "entities": {
+            "0": {
+                "entity name": "Jack Buck",
+                "children": "Joe Buck",
+                "type": "person"
+            }
+        }
+    },
+    "2": {
+        "description": "www.bonhams.com July 22 Mecum Hawkeye Classic Auction , Iowa Sate Fairgrounds , Des Moines .",
+        "entities": {
+            "0": {
+                "entity name": "Iowa",
+                "contains": "Des Moines",
+                "type": "location"
+            }
+        }
+    },
+    "3": {
+        "description": "www.formula1.com August Aug. 1-5 National Corvette Restorers Society Annual Convention , Henry B. Gonzalez Convention Center , San Antonio .",
+        "entities": {
+            "0": {
+                "entity name": "San Antonio",
+                "contains": "Henry B. Gonzalez Convention Center",
+                "type": "location"
+            }
+        }
+    },
+    "4": {
+        "description": "(248) 269-7672 , www.meadowbrookconcours.org Aug. 6 Formula One Grand Prix , Budapest , Hungary .",
+        "entities": {
+            "0": {
+                "entity name": "Hungary",
+                "capital": "Budapest",
+                "contains": "Budapest",
+                "administrative_divisions": "Budapest",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Budapest",
+                "country": "Hungary",
+                "type": "location"
+            }
+        }
+    },
+    "5": {
+        "description": "www.lemansclassic.com July 9 Italian Car Festival , Stark County Fairgrounds , Canton , Ohio .",
+        "entities": {
+            "0": {
+                "entity name": "Ohio",
+                "contains": "Canton",
+                "type": "location"
+            }
+        }
+    },
+    "6": {
+        "description": "Hockenheim , Germany .",
+        "entities": {
+            "0": {
+                "entity name": "Germany",
+                "contains": "Hockenheim",
+                "type": "location"
+            }
+        }
+    },
+    "7": {
+        "description": "The final deal was brokered through the major assistance of Annette L. Nazareth , an S.E.C. commissioner who once led its market regulation office , and Frank G. Zarb , the former chairman of NASD and a major presence on Wall Street and in Washington for much of his career .",
+        "entities": {
+            "0": {
+                "entity name": "Frank G. Zarb",
+                "company": "NASD",
+                "type": "person"
+            }
+        }
+    },
+    "8": {
+        "description": "Mary L. Schapiro , who earlier this year became the new head of NASD , was more amenable to fashioning a deal to the New York Exchange 's liking than her predecessor , Robert R. Glauber .",
+        "entities": {
+            "0": {
+                "entity name": "Mary L. Schapiro",
+                "company": "NASD",
+                "type": "person"
+            }
+        }
+    },
+    "9": {
+        "description": "Graveside service Monday January 31 , 2:00 P.M. at Riverside Cemetery , Rochelle Park , N.J. Donations may be made to Hospice By The Sea , Boca Raton , Florida .",
+        "entities": {
+            "0": {
+                "entity name": "Florida",
+                "contains": "Boca Raton",
+                "type": "location"
+            }
+        }
+    },
+    "10": {
+        "description": "This summer , the United States Embassy in Beirut , Lebanon , once again made its presence felt on the cultural scene by sponsoring a photo exhibition , an experimental jazz performance , a classical music concert and a visit from the Whiffenpoofs , Yale University 's a cappella singers .",
+        "entities": {
+            "0": {
+                "entity name": "Lebanon",
+                "capital": "Beirut",
+                "contains": "Beirut",
+                "type": "location"
+            }
+        }
+    },
+    "11": {
+        "description": "Sophiline Shapiro , the Cambodian-born artistic director of the Khmer Arts Academy , which has a school in Long Beach , Calif. , and a new dance company in Cambodia , was one of the first dance students at the School of Fine Arts in Phnom Penh after the fall of the Khmer Rouge in 1979 .",
+        "entities": {
+            "0": {
+                "entity name": "Cambodia",
+                "contains": "Phnom Penh",
+                "capital": "Phnom Penh",
+                "type": "location"
+            }
+        }
+    },
+    "12": {
+        "description": "Homage to Cambodia '' was performed at Chaktomuk Conference Hall in Phnom Penh on Oct. 21 , attended by the king .",
+        "entities": {
+            "0": {
+                "entity name": "Cambodia",
+                "contains": "Phnom Penh",
+                "capital": "Phnom Penh",
+                "type": "location"
+            }
+        }
+    },
+    "13": {
+        "description": "Mr. Hollander began touring in Asia in the early 1990 's , when he was a Fulbright lecturer in India , talking about dance and touring with his company .",
+        "entities": {
+            "0": {
+                "entity name": "Asia",
+                "contains": "India",
+                "type": "location"
+            }
+        }
+    },
+    "14": {
+        "description": "The proportion of residents in the town of East Hampton who are 65 and older , 16.6 percent , is one of the highest in Suffolk County , according to a draft of the regional planning board 's report .",
+        "entities": {
+            "0": {
+                "entity name": "Suffolk County",
+                "contains": "East Hampton",
+                "type": "location"
+            }
+        }
+    },
+    "15": {
+        "description": "In Yaphank , the report notes , the Suffolk County executive , Steve Levy , has proposed a development on county-owned land that would have up to 1,000 residential units of '' employer-assisted housing , '' referring to a housing assistance program that combines employer contributions with state and federal funds . ''",
+        "entities": {
+            "0": {
+                "entity name": "Suffolk County",
+                "contains": "Yaphank",
+                "type": "location"
+            }
+        }
+    },
+    "16": {
+        "description": "Born in Montreal , resided in Middle Village and Bayside , Queens for 70 years and Deerfield Beach , FL for 30 years .",
+        "entities": {
+            "0": {
+                "entity name": "Bayside",
+                "neighborhood_of": "Queens",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Queens",
+                "contains": "Bayside",
+                "type": "location"
+            }
+        }
+    },
+    "17": {
+        "description": "As a half Englishman , half Frenchman who arrived in New York from Paris in 1965 at 23 , and has opened and operated fashion boutiques , night clubs and now restaurants , including La Goulue on Madison Avenue , Mr. Denoyer has served the moneyed men and women of Manhattan well , putting them at ease on their own terms .",
+        "entities": {
+            "0": {
+                "entity name": "New York",
+                "contains": "Manhattan",
+                "type": "location"
+            }
+        }
+    },
+    "18": {
+        "description": "The couple have two daughters , Seon-yong , 34 , who works in Seoul for the Korea Foundation , a nonprofit organization that promotes Korean culture , and Hyun-hee , 30 , a field officer for Unicef in Nairobi , Kenya .",
+        "entities": {
+            "0": {
+                "entity name": "Kenya",
+                "capital": "Nairobi",
+                "contains": "Nairobi",
+                "type": "location"
+            }
+        }
+    },
+    "19": {
+        "description": "WHERE -- Dixie , Idaho WHAT -- 2-bedroom house HOW MUCH $ 285,000 This 1,400-square-foot log house is on 10 acres bordered on three sides by the Nez Perce National Forest .",
+        "entities": {
+            "0": {
+                "entity name": "Idaho",
+                "contains": "Dixie",
+                "type": "location"
+            }
+        }
+    },
+    "20": {
+        "description": "WHERE -- Honey Harbour , Ontario WHAT -- 2-bedroom cabin HOW MUCH -- $ 160,000 This cabin is on a Georgian Bay island , part of which is federal park land .",
+        "entities": {
+            "0": {
+                "entity name": "Ontario",
+                "contains": "Honey Harbour",
+                "type": "location"
+            }
+        }
+    },
+    "21": {
+        "description": "May is a former teammate of Hideki Matsui with the Yomiuri Giants in Japan in 2000 and 2001 .",
+        "entities": {
+            "0": {
+                "entity name": "Hideki Matsui",
+                "nationality": "Japan",
+                "type": "person"
+            }
+        }
+    },
+    "22": {
+        "description": "Over the last decade , when it came to choosing who would represent Staten Island and southwest Brooklyn in Congress , Anita Lerman has been the unchallenged standard-bearer of the Independence Party , a small but growing group with 6,703 members on the island .",
+        "entities": {
+            "0": {
+                "entity name": "Anita Lerman",
+                "place_lived": "Brooklyn",
+                "type": "person"
+            }
+        }
+    },
+    "23": {
+        "description": "Resident of Roslyn , New York .",
+        "entities": {
+            "0": {
+                "entity name": "New York",
+                "contains": "Roslyn",
+                "type": "location"
+            }
+        }
+    },
+    "24": {
+        "description": "Ohio Coach Frank Solich said : '' This would not have made our season if we won , and it did not break our season in losing it . ''",
+        "entities": {
+            "0": {
+                "entity name": "Frank Solich",
+                "place_lived": "Ohio",
+                "type": "person"
+            }
+        }
+    },
+    "25": {
+        "description": "There were two people in the courtroom who looked up to the German-born judges as the best of Germany and looked down on the prosecutor as a miserable Ostjude : one was Eichmann and the other was Hannah Arendt . ''",
+        "entities": {
+            "0": {
+                "entity name": "Hannah Arendt",
+                "nationality": "Germany",
+                "type": "person"
+            }
+        }
+    },
+    "26": {
+        "description": "Defense Secretary Donald H. Rumsfeld spent Tuesday in a whirlwind trip around Iraq that included '' town hall '' meetings with American troops outside the capital , talks with government officials in Baghdad , and a final stop here , at a Kurdish stronghold beneath snow-capped mountains where anti-Saddam Hussein forces plotted for years against the Iraqi dictator -- and against other Kurds .",
+        "entities": {
+            "0": {
+                "entity name": "Iraq",
+                "contains": "Baghdad",
+                "capital": "Baghdad",
+                "type": "location"
+            }
+        }
+    },
+    "27": {
+        "description": "Crucial to the team 's success was the recruitment of an international roster of stars , led by the exuberant Pele -LRB- coaxed out of retirement with the help of Secretary of State Henry Kissinger and untold millions -RRB- and Germany 's smooth-as-silk Franz Beckenbauer .",
+        "entities": {
+            "0": {
+                "entity name": "Franz Beckenbauer",
+                "nationality": "Germany",
+                "type": "person"
+            }
+        }
+    },
+    "28": {
+        "description": "An article on Thursday about the spread of electrical failures and transportation service cutbacks in the New York City area misspelled the surname of a Queens woman whose 12-story apartment building lost power on Wednesday morning .",
+        "entities": {
+            "0": {
+                "entity name": "New York City",
+                "contains": "Queens",
+                "type": "location"
+            }
+        }
+    },
+    "29": {
+        "description": "The comedian John Leguizamo , who was born in Colombia and grew up in Jackson Heights , Queens , played himself in a radio spot on the sports station WFAN in which he left a series of increasingly desperate phone messages begging Minaya for tickets .",
+        "entities": {
+            "0": {
+                "entity name": "Jackson Heights",
+                "neighborhood_of": "Queens",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Queens",
+                "contains": "Jackson Heights",
+                "type": "location"
+            }
+        }
+    },
+    "30": {
+        "description": "He 's got the tools , and he 's a great kid , but you ca n't expect him to be fielding like Omar Vizquel '' -- the Giants ' slick-fielding shortstop from Caracas .",
+        "entities": {
+            "0": {
+                "entity name": "Omar Vizquel",
+                "place_of_birth": "Caracas",
+                "type": "person"
+            }
+        }
+    },
+    "31": {
+        "description": "You Ca n't Walk Your Way Off the Island The architect of the New Mets , Omar Minaya , was 8 when his family moved to Corona , Queens , from the Dominican Republic in 1967 , a little more than five years after the assassination of the dictator Rafael Trujillo .",
+        "entities": {
+            "0": {
+                "entity name": "Queens",
+                "contains": "Corona",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Corona",
+                "neighborhood_of": "Queens",
+                "type": "location"
+            }
+        }
+    },
+    "32": {
+        "description": "According to the city 's Economic Development Corporation , the Brooklyn terminal will accommodate 192,000 passengers from 38 ships in its first year of operation , eventually accounting for about one-fifth of the roughly one million passengers who will pass through New York City this year .",
+        "entities": {
+            "0": {
+                "entity name": "New York City",
+                "contains": "Brooklyn",
+                "type": "location"
+            }
+        }
+    },
+    "33": {
+        "description": "I hate to rush this press conference , actually , but I heard the shuffleboard tournament starts at 11 , and Marty thinks that he can take me , '' said Mayor Michael R. Bloomberg , referring to the Brooklyn borough president , Marty Markowitz . ''",
+        "entities": {
+            "0": {
+                "entity name": "Marty Markowitz",
+                "place_lived": "Brooklyn",
+                "type": "person"
+            }
+        }
+    },
+    "34": {
+        "description": "I 3\\/5sheart 4\\/5 $ '' (1986) is , in the broadest sense , about the circulation of money : in its 140 minutes it visits a hectic foreign exchange bureau in Amsterdam ; private bankers on Wall Street ; a racetrack in Hong Kong ; a Puerto Rican mother and her son struggling to set up a restaurant along Avenue C , then devastated , in the East Village ; and a raucous farmers ' market back in the Netherlands .",
+        "entities": {
+            "0": {
+                "entity name": "Netherlands",
+                "contains": "Amsterdam",
+                "administrative_divisions": "Amsterdam",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Amsterdam",
+                "country": "Netherlands",
+                "type": "location"
+            }
+        }
+    },
+    "35": {
+        "description": "Lubitsch 's Hollywood Europe was a highly artificial , thoroughly imagined place , but then so was the Europe he envisioned while still in Germany , as revealed by the five wonderful films being released today on four discs by Kino International under the series title '' Lubitsch in Berlin . ''",
+        "entities": {
+            "0": {
+                "entity name": "Europe",
+                "contains": "Germany",
+                "type": "location"
+            }
+        }
+    },
+    "36": {
+        "description": "Lubitsch in Berlin The director Ernst Lubitsch is best known for the continental fantasies he created during his tenure at Paramount in Hollywood , films like '' Trouble in Paradise '' (1932) and '' Ninotchka '' (1939) , which took place in a Paris of infinite elegance , wit and sexual tolerance .",
+        "entities": {
+            "0": {
+                "entity name": "Ernst Lubitsch",
+                "place_of_death": "Berlin",
+                "type": "person"
+            }
+        }
+    },
+    "37": {
+        "description": "YouTube 's bite also hurt Senator Joseph I. Lieberman , who was defeated by the political upstart Ned Lamont in Connecticut 's Democratic primary earlier this month .",
+        "entities": {
+            "0": {
+                "entity name": "Ned Lamont",
+                "place_lived": "Connecticut",
+                "type": "person"
+            }
+        }
+    },
+    "38": {
+        "description": "Last week , Senator George Allen , the Virginia Republican , was caught on tape at a campaign event twice calling a college student of Indian descent a '' macaca , '' an obscure racial slur .",
+        "entities": {
+            "0": {
+                "entity name": "George Allen",
+                "place_lived": "Virginia",
+                "type": "person"
+            }
+        }
+    },
+    "39": {
+        "description": "Iran allowed inspectors to take environmental samples this week from the site , at Parchin , southeast of Tehran .",
+        "entities": {
+            "0": {
+                "entity name": "Iran",
+                "contains": "Tehran",
+                "capital": "Tehran",
+                "type": "location"
+            }
+        }
+    },
+    "40": {
+        "description": "It has two other stores in Hudson County -- in Jersey City and Secaucus -- and a third is being constructed in North Bergen on Tonnelle Avenue .",
+        "entities": {
+            "0": {
+                "entity name": "Hudson County",
+                "contains": "Secaucus",
+                "type": "location"
+            }
+        }
+    },
+    "41": {
+        "description": "The zoning statute that governs the redevelopment around the Holland Tunnel makes no stipulation for traffic , so Jersey City can not reject the plan based on traffic alone , said Kristin Russell , a city planner .",
+        "entities": {
+            "0": {
+                "entity name": "Jersey City",
+                "contains": "Holland Tunnel",
+                "type": "location"
+            }
+        }
+    },
+    "42": {
+        "description": "Kyoto 's cuisine -LRB- kyo-ryori -RRB- is the legacy of court and temple , aristocratic and understated ; unusual locations and exquisite food made the meals I ate there some of the most magical of my life , and made the traditional Japan I 'd first fallen in love with palpable .",
+        "entities": {
+            "0": {
+                "entity name": "Japan",
+                "contains": "Kyoto",
+                "type": "location"
+            }
+        }
+    },
+    "43": {
+        "description": "Yoshi Tsuji runs several cooking schools in Japan and in Europe ; Kazuki Kondo , dean of the Osaka school , joined us for dinner .",
+        "entities": {
+            "0": {
+                "entity name": "Europe",
+                "contains": "Japan",
+                "type": "location"
+            }
+        }
+    },
+    "44": {
+        "description": "A century ago , the greatest playground was Coney Island , a pre-Disney seaside place to cavort at the southernmost edge of Brooklyn .",
+        "entities": {
+            "0": {
+                "entity name": "Brooklyn",
+                "contains": "Coney Island",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Coney Island",
+                "neighborhood_of": "Brooklyn",
+                "type": "location"
+            }
+        }
+    },
+    "45": {
+        "description": "Even wishful thinkers do n't believe she can medal here , much less win , but who would have wageredon Dan Jansen before he ended his long Olympic odyssey by winning a speedskating gold medal for his dead sister in 1994 in Lillehammer , Norway ?",
+        "entities": {
+            "0": {
+                "entity name": "Norway",
+                "contains": "Lillehammer",
+                "type": "location"
+            }
+        }
+    },
+    "46": {
+        "description": "OVER the last few years , as its residents fought a battle against the city to keep their homes , the Fort Trumbull neighborhood of New London looked more and more like a war-torn village , with acres of vacant lots interrupted intermittently by debris and a few scattered houses .",
+        "entities": {
+            "0": {
+                "entity name": "New London",
+                "contains": "Fort Trumbull",
+                "type": "location"
+            }
+        }
+    },
+    "47": {
+        "description": "Curry and Crawford , close friends and longtime teammates in Chicago and New York , were in sync in the final quarter .",
+        "entities": {
+            "0": {
+                "entity name": "Crawford",
+                "place_of_birth": "Chicago",
+                "type": "person"
+            }
+        }
+    },
+    "48": {
+        "description": "The Knicks were 10 for 15 from the free-throw line in the fourth quarter , but had only 2 turnovers , and Coach Isiah Thomas called it a vast improvement from their fourth quarter in Chicago . ''",
+        "entities": {
+            "0": {
+                "entity name": "Isiah Thomas",
+                "place_lived": "Chicago",
+                "type": "person"
+            }
+        }
+    },
+    "49": {
+        "description": "Nanette Lepore , a New York fashion designer , said she reserved a seat every week to go to her home in Amagansett because she '' ca n't bear standing , especially when I 've worked all day and I 'm stressed out . ''",
+        "entities": {
+            "0": {
+                "entity name": "New York",
+                "contains": "Amagansett",
+                "type": "location"
+            }
+        }
+    },
+    "50": {
+        "description": "Senators Jon Corzine , Democrat of New Jersey , and Susan Collins , Republican of Maine , have been working hard on the issue .",
+        "entities": {
+            "0": {
+                "entity name": "Susan Collins",
+                "place_lived": "Maine",
+                "type": "person"
+            }
+        }
+    },
+    "51": {
+        "description": "OVED-WEISS -- Or , 23 , beloved son of Inbal Oved and Mark and Cathy Weiss , died suddenly and tragically in Bangkok , Thailand .",
+        "entities": {
+            "0": {
+                "entity name": "Thailand",
+                "administrative_divisions": "Bangkok",
+                "contains": "Bangkok",
+                "capital": "Bangkok",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Bangkok",
+                "country": "Thailand",
+                "type": "location"
+            }
+        }
+    },
+    "52": {
+        "description": "It envisioned a sprawling cultural center and Fordham campus on the squalid West Side , a civic plaza in Downtown Brooklyn that Robert Moses promised would rival the Piazza San Marco in Venice , a grand development over the Sunnyside railroad yards in Queens , and a Palace of Progress devoted to world trade atop a reconstructed Pennsylvania Station .",
+        "entities": {
+            "0": {
+                "entity name": "Queens",
+                "contains": "Piazza San Marco",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Piazza San Marco",
+                "neighborhood_of": "Queens",
+                "type": "location"
+            }
+        }
+    },
+    "53": {
+        "description": "Scott Schwind has joined Fulbright & Jaworski as an energy partner in Houston .",
+        "entities": {
+            "0": {
+                "entity name": "Scott Schwind",
+                "place_lived": "Houston",
+                "type": "person"
+            }
+        }
+    },
+    "54": {
+        "description": "He writes that the State Department 's Future of Iraq project was sidelined because of tensions between the State Department and the Pentagon , and that its coordinator , Tom Warrick , '' who had done as much thinking about postwar Iraq as any American official '' also '' became a casualty of the interagency war and did n't get to Baghdad for a year . ''",
+        "entities": {
+            "0": {
+                "entity name": "Iraq",
+                "contains": "Baghdad",
+                "capital": "Baghdad",
+                "type": "location"
+            }
+        }
+    },
+    "55": {
+        "description": "A more recent list included references to Wiener Werkstatte designs , Los Angeles graffiti , a Buddha fountain in Chinatown , a book by Aldous Huxley and an action figure of Ginger Lynn , the pornography star .",
+        "entities": {
+            "0": {
+                "entity name": "Los Angeles",
+                "contains": "Chinatown",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Chinatown",
+                "neighborhood_of": "Los Angeles",
+                "type": "location"
+            }
+        }
+    },
+    "56": {
+        "description": "He has been through four uniform changes , has seen the Angels name changed from California to Anaheim to the Los Angeles Angels of Anaheim .",
+        "entities": {
+            "0": {
+                "entity name": "California",
+                "contains": "Anaheim",
+                "type": "location"
+            }
+        }
+    },
+    "57": {
+        "description": "Like Atlanta 's John Smoltz -LRB- 17 seasons -RRB- and the Astros ' Craig Biggio -LRB- 18 seasons -RRB- , Anderson is a franchise lifer .",
+        "entities": {
+            "0": {
+                "entity name": "John Smoltz",
+                "place_lived": "Atlanta",
+                "type": "person"
+            }
+        }
+    },
+    "58": {
+        "description": "Nelson McCausland , a Belfast politician and a member of the Democratic Unionists , a hard-line Protestant party , said : '' There is a fundamental anger and alienation .",
+        "entities": {
+            "0": {
+                "entity name": "Nelson McCausland",
+                "place_of_birth": "Belfast",
+                "type": "person"
+            }
+        }
+    },
+    "59": {
+        "description": "The Bush administration , condemning the assassination of the former prime minister , Rafik Hariri , in Lebanon , suggested Monday that Syria was to blame and moved to get a new condemnation of Syria 's domination of Lebanon at the United Nations Security Council .",
+        "entities": {
+            "0": {
+                "entity name": "Rafik Hariri",
+                "nationality": "Lebanon",
+                "type": "person"
+            }
+        }
+    },
+    "60": {
+        "description": "American officials said the killing was an ominous development on two counts : first , because it raised concern that Lebanon could plunge back into the civil war that it suffered throughout the 1980 's , and second , because it underscored growing American impatience with the role played by Syria in the Middle East .",
+        "entities": {
+            "0": {
+                "entity name": "Middle East",
+                "contains": "Lebanon",
+                "type": "location"
+            }
+        }
+    },
+    "61": {
+        "description": "And in fact the Syrian foreign minister , Farouk al-Sharaa , speaking at a news conference in Damascus , also condemned the attack .",
+        "entities": {
+            "0": {
+                "entity name": "Farouk al-Sharaa",
+                "place_of_birth": "Damascus",
+                "type": "person"
+            }
+        }
+    },
+    "62": {
+        "description": "Mr. McClellan and other administration spokesmen said they had no concrete evidence of Syria 's involvement in the killing of Mr. Hariri , a prominent opposition leader and critic of Syria 's role in Lebanon , who died along with at least 11 others when a car bomb blew up next to his motorcade in Beirut .",
+        "entities": {
+            "0": {
+                "entity name": "Lebanon",
+                "capital": "Beirut",
+                "contains": "Beirut",
+                "type": "location"
+            }
+        }
+    },
+    "63": {
+        "description": "In 1999 one of its members , Evan Ziporyn , a composer and clarinetist and a professor at the Massachusetts Institute of Technology , met Kyaw Kyaw Naing , an expatriate Burmese percussion virtuoso now living in New York , at a concert in suburban Boston .",
+        "entities": {
+            "0": {
+                "entity name": "Evan Ziporyn",
+                "place_lived": "Boston",
+                "type": "person"
+            }
+        }
+    },
+    "64": {
+        "description": "Certainly the Berlin Philharmonic that appeared at Carnegie Hall on Wednesday night , in the first of four programs through tomorrow night , looks a lot different from the ensemble of even 10 years ago , when the great Claudio Abbado was music director .",
+        "entities": {
+            "0": {
+                "entity name": "Claudio Abbado",
+                "company": "Berlin Philharmonic",
+                "type": "person"
+            }
+        }
+    },
+    "65": {
+        "description": "Gov. Haley Barbour of Mississippi acknowledges that Clyde Kennard suffered a grievous wrong at the hands of state officials more than 45 years ago .",
+        "entities": {
+            "0": {
+                "entity name": "Haley Barbour",
+                "place_lived": "Mississippi",
+                "type": "person"
+            }
+        }
+    },
+    "66": {
+        "description": "A sports article on Aug. 11 about an underground effort by Christopher Vandaele , the owner of a triathlon outfitter in Manhattan , to stage a triathlon in New York City referred incorrectly to a cease-and-desist order demanding that he not use the World Triathlon Corporation 's '' Iron '' brand in promoting the race .",
+        "entities": {
+            "0": {
+                "entity name": "New York City",
+                "contains": "Manhattan",
+                "type": "location"
+            }
+        }
+    },
+    "67": {
+        "description": "No Tie to Serial Killer Is Found in 7 Deaths Charles Cullen , the nurse who killed patients in New Jersey and Pennsylvania , has so far pleaded guilty to intentionally giving lethal doses of drugs to 24 people during a 16-year career in which he worked at nine hospitals and a nursing home in the two states .",
+        "entities": {
+            "0": {
+                "entity name": "Charles Cullen",
+                "place_lived": "Pennsylvania",
+                "type": "person"
+            }
+        }
+    },
+    "68": {
+        "description": "Matter of fact , we had one guy just two weeks out of training at Fort Hood , Texas .",
+        "entities": {
+            "0": {
+                "entity name": "Texas",
+                "contains": "Fort Hood",
+                "type": "location"
+            }
+        }
+    },
+    "69": {
+        "description": "A senior aide to Grand Ayatollah Ali al-Sistani , Iraq 's most influential Shiite cleric , was gunned down on his way to Friday Prayer in Baghdad , and a suicide car bomb exploded near the office of a major Shiite political party , an Interior Ministry official said Friday .",
+        "entities": {
+            "0": {
+                "entity name": "Iraq",
+                "contains": "Baghdad",
+                "capital": "Baghdad",
+                "type": "location"
+            }
+        }
+    },
+    "70": {
+        "description": "The Kharkh has been struck repeatedly , most recently two weeks ago , placing great pressure on Baghdad 's mayor , Alaa al-Tamimi , and the American forces to carry out repairs and keep the plant running .",
+        "entities": {
+            "0": {
+                "entity name": "Alaa al-Tamimi",
+                "place_of_birth": "Baghdad",
+                "type": "person"
+            }
+        }
+    },
+    "71": {
+        "description": "Also on Friday , American marines said they were investigating the death of an Iraqi civilian that occurred last Saturday during raids of houses near Haditha , a city in the troubled Anbar Province in western Iraq .",
+        "entities": {
+            "0": {
+                "entity name": "Iraq",
+                "contains": "Haditha",
+                "type": "location"
+            }
+        }
+    },
+    "72": {
+        "description": "The movie begins in New York City , where the aspiring musician Luke Falcon -LRB- played by the musician and actor Steven Strait -RRB- has a brief but heart-stopping encounter with a willowy model named Brier -LRB- Pell James -RRB- .",
+        "entities": {
+            "0": {
+                "entity name": "Luke Falcon",
+                "place_of_birth": "New York City",
+                "type": "person"
+            }
+        }
+    },
+    "73": {
+        "description": "His father was a New York City firefighter in Brooklyn and later a chiropractor , who practiced in Eastchester , N.Y. WEDDINGS\\/CELEBRATIONS",
+        "entities": {
+            "0": {
+                "entity name": "New York City",
+                "contains": "Brooklyn",
+                "type": "location"
+            }
+        }
+    },
+    "74": {
+        "description": "Jean Rosenbluth , a law professor at the University of Southern California and a former federal prosecutor in Los Angeles , said defense lawyers in similar situations had argued that such dismissals were subterfuges involving jurors who were holding out for acquittal . ''",
+        "entities": {
+            "0": {
+                "entity name": "Los Angeles",
+                "contains": "University of Southern California",
+                "type": "location"
+            }
+        }
+    },
+    "75": {
+        "description": "She is a second-year resident in psychiatry at Mount Sinai Hospital in New York .",
+        "entities": {
+            "0": {
+                "entity name": "New York",
+                "contains": "Mount Sinai Hospital",
+                "type": "location"
+            }
+        }
+    },
+    "76": {
+        "description": "Rose Valentin , a community associate of the New York City clerk 's office , officiated at Boylan Studios , an event space in New York , in a ceremony led by Anthony V. DeMayo , a judge trial referee of the Connecticut Superior Court in New Haven , Conn. .",
+        "entities": {
+            "0": {
+                "entity name": "Connecticut",
+                "contains": "New Haven",
+                "type": "location"
+            }
+        }
+    },
+    "77": {
+        "description": "Margaret Somerville , professor of law and medicine at McGill University , said the ruling '' is extremely important '' in large part because '' the provinces that want to run some form of a complementary private system would probably be able to do so now . ''",
+        "entities": {
+            "0": {
+                "entity name": "Margaret Somerville",
+                "company": "McGill University",
+                "type": "person"
+            }
+        }
+    },
+    "78": {
+        "description": "The case was brought to the Supreme Court by Jacques Chaoulli , a Montreal family doctor who argued his own case through the courts , and George Zeliotis , a chemical salesman who was forced to wait a year for a hip replacement while he was prohibited from paying privately for surgery .",
+        "entities": {
+            "0": {
+                "entity name": "Jacques Chaoulli",
+                "place_of_birth": "Montreal",
+                "type": "person"
+            }
+        }
+    },
+    "79": {
+        "description": "Though officials in Addis Ababa , Ethiopia 's capital , have said their troops should not enter downtown Mogadishu , many are camped in the former American Embassy , a decrepit building that was closed more than 15 years ago after American soldiers suffered a humiliating defeat at the hands of warlords .",
+        "entities": {
+            "0": {
+                "entity name": "Ethiopia",
+                "capital": "Addis Ababa",
+                "contains": "Addis Ababa",
+                "type": "location"
+            }
+        }
+    },
+    "80": {
+        "description": "Anti-Ethiopia riots erupted in Mogadishu , the capital of Somalia , on Friday , while masked gunmen emerged for the first time on the streets , a day after Ethiopian-backed troops captured the city from Islamist forces .",
+        "entities": {
+            "0": {
+                "entity name": "Somalia",
+                "contains": "Mogadishu",
+                "capital": "Mogadishu",
+                "type": "location"
+            }
+        }
+    },
+    "81": {
+        "description": "Another judge told me that , given the shortcomings of the court , the government of Sudan , far from preventing the I.C.C. from taking over justice in Darfur , is all but ensuring that the I.C.C. prosecutor will come to Sudan .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "82": {
+        "description": "And now the International Criminal Court has begun its investigations into the mass murders and crimes against humanity that have been committed , and are still taking place , in the Darfur region of Sudan .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "83": {
+        "description": "For now , Sudan has set up courts with an eye toward demonstrating that the Darfur cases are inadmissible to the International Criminal Court because they 're being handled perfectly well in Sudan .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "84": {
+        "description": "The State Department was working hard on Darfur even before Secretary of State Colin Powell declared in 2004 that Sudan 's actions in the region constituted genocide .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "85": {
+        "description": "Our hope is with the I.C.C. '' So , quietly and doggedly , Moreno-Ocampo is stitching together his file against the top leaders of the genocide in Darfur , collecting evidence from victims , activists and international officials , and perhaps this might , in a very partial way , help keep Sudan from falling apart .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "86": {
+        "description": "In Darfur , as elsewhere in Sudan , the rebels are fighting their people 's economic and political marginalization .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "administrative_divisions": "Darfur",
+                "contains": "Darfur",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Darfur",
+                "country": "Sudan",
+                "type": "location"
+            }
+        }
+    },
+    "87": {
+        "description": "Russia , another permanent member of the Security Council , has always been uneasy about the I.C.C. , given the continuing disaster in Chechnya .",
+        "entities": {
+            "0": {
+                "entity name": "Chechnya",
+                "country": "Russia",
+                "type": "location"
+            },
+            "1": {
+                "entity name": "Russia",
+                "administrative_divisions": "Chechnya",
+                "contains": "Chechnya",
+                "type": "location"
+            }
+        }
+    },
+    "88": {
+        "description": "In May 2002 , Under Secretary of State John R. Bolton sent a letter to Kofi Annan , secretary general of the United Nations , announcing that the United States did n't consider itself bound by the Rome Statute .",
+        "entities": {
+            "0": {
+                "entity name": "Kofi Annan",
+                "company": "United Nations",
+                "type": "person"
+            }
+        }
+    },
+    "89": {
+        "description": "News of the list 's existence unnerved officials in Khartoum , Sudan 's capital .",
+        "entities": {
+            "0": {
+                "entity name": "Sudan",
+                "capital": "Khartoum",
+                "contains": "Khartoum",
+                "type": "location"
+            }
+        }
+    },
+    "90": {
+        "description": "Luis Moreno-Ocampo was the assistant prosecutor and became a household name across Argentina .",
+        "entities": {
+            "0": {
+                "entity name": "Luis Moreno-Ocampo",
+                "nationality": "Argentina",
+                "type": "person"
+            }
+        }
+    },
+    "91": {
+        "description": "More than 50 public schools in nine Nassau County districts locked down their buildings yesterday as the police searched for three bank robbery suspects in the Baldwin area .",
+        "entities": {
+            "0": {
+                "entity name": "Nassau County",
+                "contains": "Baldwin",
+                "type": "location"
+            }
+        }
+    },
+    "92": {
+        "description": "His father retired as the manager of plumbing and heating at Manhattan College in Riverdale .",
+        "entities": {
+            "0": {
+                "entity name": "Riverdale",
+                "contains": "Manhattan College",
+                "type": "location"
+            }
+        }
+    },
+    "93": {
+        "description": "Lawrence O. Gostin , the chairman of the panel that conducted the study and a professor of law and public health at Georgetown University , said he hoped to change that .",
+        "entities": {
+            "0": {
+                "entity name": "Lawrence O. Gostin",
+                "company": "Georgetown University",
+                "type": "person"
+            }
+        }
+    },
+    "94": {
+        "description": "What happened at Holmesburg was just as gruesome as Tuskegee , but at Holmesburg it happened smack dab in the middle of a major city , not in some backwoods in Alabama , '' said Allen M. Hornblum , an urban studies professor at Temple University and the author of '' Acres of Skin , '' a 1998 book about the Holmesburg research . ''",
+        "entities": {
+            "0": {
+                "entity name": "Alabama",
+                "contains": "Holmesburg",
+                "type": "location"
+            }
+        }
+    },
+    "95": {
+        "description": "I think we could have stood up stronger to the mayor and not bowed to this annual budget dance process that we go through , '' Councilman Charles Barron of Brooklyn said .",
+        "entities": {
+            "0": {
+                "entity name": "Charles Barron",
+                "place_lived": "Brooklyn",
+                "type": "person"
+            }
+        }
+    },
+    "96": {
+        "description": "When Flood was on the cusp of the majors , the Reds -- fearful , apparently , of having an all-black outfield -- traded him to St. Louis , a city and franchise with its own heavy racial baggage ; among other things , two Cardinals , Enos Slaughter and Joe Garagiola , had harassed Jackie Robinson when the Dodgers played there .",
+        "entities": {
+            "0": {
+                "entity name": "Jackie Robinson",
+                "place_lived": "St. Louis",
+                "type": "person"
+            }
+        }
+    },
+    "97": {
+        "description": "Marsha Lindsey , a black paramedic and former poll worker in Dayton , Ohio , said that after 2004 she stopped arguing with her black friends when they said there was no point in voting .",
+        "entities": {
+            "0": {
+                "entity name": "Ohio",
+                "contains": "Dayton",
+                "type": "location"
+            }
+        }
+    },
+    "98": {
+        "description": "Last weekend , Jim Webb , the Virginia Democrat who hopes to oust Senator George Allen , crammed in visits to 12 black churches , and for several weeks he has been pumping money into advertisements on black radio stations and in black newspapers .",
+        "entities": {
+            "0": {
+                "entity name": "Jim Webb",
+                "place_lived": "Virginia",
+                "type": "person"
+            }
+        }
+    },
+    "99": {
+        "description": "In Tennessee , Representative Harold E. Ford Jr. is depending on a strong showing from blacks in Memphis , which he represents , to edge past Bob Corker and become the first black senator from a Southern state since Reconstruction .",
+        "entities": {
+            "0": {
+                "entity name": "Tennessee",
+                "contains": "Memphis",
+                "type": "location"
+            }
+        }
+    }
+}

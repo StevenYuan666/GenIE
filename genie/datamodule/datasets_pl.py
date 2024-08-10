@@ -34,7 +34,7 @@ class DataModule(LightningDataModule):
     ):
         super().__init__()
         # TODO: Add implementations for WebNLG
-        assert dataset_name in set(["geo_nre", "wikipedia_nre", "rebel", "fewrel"])
+        assert dataset_name in set(["geo_nre", "wikipedia_nre", "rebel", "fewrel", "New_D3" , "New_D2", "REBEL", "TREX", "nyt", "conll04"])
 
         # Concerning the raw data
         self.tokenizer = tokenizer
@@ -60,6 +60,25 @@ class DataModule(LightningDataModule):
         # TODO: Use the stage parameter to improve loading speed
         """Load data. Set variables: self.data_train, self.data_val, self.data_test."""
         if self.dataset_name == "wikipedia_nre":
+            if stage == "fit" or stage is None:
+                self.data_train = WikipediaNRE.from_kilt_dataset(
+                    tokenizer=self.tokenizer, data_split="train", data_dir=self.data_dir, **self.params
+                )
+                self.data_val = WikipediaNRE.from_kilt_dataset(
+                    tokenizer=self.tokenizer, data_split="val", data_dir=self.data_dir, **self.params
+                )
+
+            if stage == "validate" or stage is None:
+                self.data_val = WikipediaNRE.from_kilt_dataset(
+                    tokenizer=self.tokenizer, data_split="val", data_dir=self.data_dir, **self.params
+                )
+
+            if stage == "test" or stage is None:
+                self.data_test = WikipediaNRE.from_kilt_dataset(
+                    tokenizer=self.tokenizer, data_split="test", data_dir=self.data_dir, **self.params
+                )
+
+        if self.dataset_name == "New_D3" or self.dataset_name == "New_D2" or self.dataset_name == "REBEL" or self.dataset_name == "TREX" or self.dataset_name == "nyt" or self.dataset_name == "conll04":
             if stage == "fit" or stage is None:
                 self.data_train = WikipediaNRE.from_kilt_dataset(
                     tokenizer=self.tokenizer, data_split="train", data_dir=self.data_dir, **self.params

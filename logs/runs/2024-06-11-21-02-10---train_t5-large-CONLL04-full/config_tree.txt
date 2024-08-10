@@ -1,0 +1,98 @@
+CONFIG                                                                          
+├── trainer                                                                     
+│   └── _target_: pytorch_lightning.Trainer                                     
+│       gpus: 1                                                                 
+│       max_steps: 5000                                                         
+│       val_check_interval: 922                                                 
+│       weights_summary: null                                                   
+│       progress_bar_refresh_rate: 5                                            
+│       resume_from_checkpoint: null                                            
+│       gradient_clip_val: 0.1                                                  
+│       gradient_clip_algorithm: norm                                           
+│       accumulate_grad_batches: 1                                              
+│                                                                               
+├── model                                                                       
+│   └── inference:                                                              
+│         free_generation: false                                                
+│         entity_trie_path: /home/admin1/Documents/GenIE/data/tries/entity_trie.
+│         relation_trie_path: /home/admin1/Documents/GenIE/data/tries/relation_t
+│         hf_generation_params:                                                 
+│           num_beams: 10                                                       
+│           num_return_sequences: 10                                            
+│           min_length: 0                                                       
+│           max_length: 512                                                     
+│           early_stopping: true                                                
+│           encoder_no_repeat_ngram_size: 0                                     
+│           no_repeat_ngram_size: 0                                             
+│           temperature: 1.0                                                    
+│           length_penalty: 1.0                                                 
+│         seed: 123                                                             
+│         save_testing_data: true                                               
+│         save_full_beams: false                                                
+│         verbose_flag_in_convert_to_triple: false                              
+│       _target_: genie.models.genie_base_pl.GeniePL                            
+│       model_name_or_path: t5-large                                            
+│       max_input_length: 512                                                   
+│       max_output_length: 512                                                  
+│       bos_as_first_token_generated: true                                      
+│       lr: 0.0001                                                              
+│       weight_decay: 0                                                         
+│       schedule_name: polynomial                                               
+│       lr_end: 0.0                                                             
+│       warmup_updates: 1000                                                    
+│       total_num_updates: 5000                                                 
+│       eps: 0.1                                                                
+│       adam_eps: 1.0e-08                                                       
+│                                                                               
+├── datamodule                                                                  
+│   └── matching_status: title                                                  
+│       padding: true                                                           
+│       truncation: true                                                        
+│       seed: 123                                                               
+│       target_paddding_token_id: -100                                          
+│       relations_to_keep: null                                                 
+│       batch_size: 1                                                           
+│       num_workers: 10                                                         
+│       pin_memory: false                                                       
+│       _target_: genie.datamodule.datasets_pl.DataModule                       
+│       dataset_name: conll04                                                   
+│       data_dir: /home/admin1/Documents/GenIE/data/conll04                     
+│                                                                               
+├── callbacks                                                                   
+│   └── model_checkpoint:                                                       
+│         _target_: pytorch_lightning.callbacks.ModelCheckpoint                 
+│         monitor: val-nll_loss                                                 
+│         mode: min                                                             
+│         save_top_k: 3                                                         
+│         save_last: true                                                       
+│         verbose: false                                                        
+│         dirpath: checkpoints/                                                 
+│         filename: model-epoch_{epoch:03d}-step_{step:04d}-val_nll_loss_{val-nl
+│         save_on_train_epoch_end: false                                        
+│         auto_insert_metric_name: false                                        
+│       learning_rate_monitor:                                                  
+│         _target_: pytorch_lightning.callbacks.LearningRateMonitor             
+│         logging_interval: step                                                
+│                                                                               
+├── logger                                                                      
+│   └── wandb:                                                                  
+│         _target_: pytorch_lightning.loggers.wandb.WandbLogger                 
+│         project: GenIE                                                        
+│         name: train_t5-large-CONLL04-full                                     
+│         save_dir: .                                                           
+│         offline: false                                                        
+│         id: null                                                              
+│         log_model: false                                                      
+│         job_type: train                                                       
+│         group: ''                                                             
+│         tags: []                                                              
+│         notes: null                                                           
+│                                                                               
+├── seed                                                                        
+│   └── 123                                                                     
+├── run_name                                                                    
+│   └── train_t5-large-CONLL04-full                                             
+├── ignore_warnings                                                             
+│   └── False                                                                   
+└── test_after_training                                                         
+    └── False                                                                   

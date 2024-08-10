@@ -6,7 +6,7 @@ defaults:
   - trainer: default.yaml
   - model: genie_base.yaml
   #  - datamodule: wikipedia_nre.yaml
-  - datamodule: rebel.yaml
+  - datamodule: conll04.yaml
   - callbacks: default.yaml # set this to null if you don't want to use callbacks
   - logger: wandb #null # set logger here or use command line (e.g. `python run.py logger=wandb`)
 
@@ -19,7 +19,7 @@ defaults:
   - override hydra/hydra_logging: colorlog
   - override hydra/job_logging: colorlog
 
-mode: ??? # train, evaluate, evaluate_from_file
+mode: train # train, evaluate, evaluate_from_file
 
 # path to original working directory
 work_dir: ${hydra:runtime.cwd}
@@ -30,7 +30,7 @@ work_dir: ${hydra:runtime.cwd}
 # path to folder with data
 data_dir: ${work_dir}/data/
 
-run_name: ??? # Will be used for logging
+run_name: train_t5-large-CONLL04-full # Will be used for logging
 
 # use `python run.py debug=true` for easy debugging!
 # this will run 1 train, val and test loop with only 1 batch
@@ -47,6 +47,6 @@ ignore_warnings: False
 
 # check performance on test set, using the best model achieved during training
 # lightning chooses best model based on metric specified in checkpoint callback
-test_after_training: ???
+test_after_training: False
 
 seed: 123

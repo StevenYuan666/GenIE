@@ -221,16 +221,16 @@ class WikipediaNRE(KiltDataset):
 
         raw_data = cls._read_data(input_file_path)
 
-        if kwargs.get("matching_status", False):
-            raw_data = cls._filter_on_matching_status(raw_data, kwargs["matching_status"])
-
-        if kwargs.get("relations_to_drop", False):
-            relations_to_drop = KiltDataset.read_relation_set(kwargs["relations_to_drop"])
-            raw_data = cls._filter_on_relations_drop(raw_data, relations_to_drop)
-
-        if kwargs.get("relations_to_keep", False):
-            relations_to_keep = KiltDataset.read_relation_set(kwargs["relations_to_keep"])
-            raw_data = cls._filter_on_relations_keep(raw_data, relations_to_keep)
+        # if kwargs.get("matching_status", False):
+        #     raw_data = cls._filter_on_matching_status(raw_data, kwargs["matching_status"])
+        #
+        # if kwargs.get("relations_to_drop", False):
+        #     relations_to_drop = KiltDataset.read_relation_set(kwargs["relations_to_drop"])
+        #     raw_data = cls._filter_on_relations_drop(raw_data, relations_to_drop)
+        #
+        # if kwargs.get("relations_to_keep", False):
+        #     relations_to_keep = KiltDataset.read_relation_set(kwargs["relations_to_keep"])
+        #     raw_data = cls._filter_on_relations_keep(raw_data, relations_to_keep)
 
         relations_to_ignore = None
 

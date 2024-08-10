@@ -66,7 +66,7 @@ class GeniePL(LightningModule):
             if self.hparams.get("tokenizer", False):
                 self.tokenizer = self.hparams["tokenizer"]
             else:
-                self.tokenizer = transformers.BartTokenizer.from_pretrained(self.hparams.tokenizer_path)
+                self.tokenizer = transformers.T5Tokenizer.from_pretrained(self.hparams.tokenizer_path)
         else:
             # Initialization from a HF model
             self.model, hf_config = GenieHF.from_pretrained(
@@ -74,7 +74,7 @@ class GeniePL(LightningModule):
                 return_dict=True,
                 other_parameters=self.hparams.get("other_parameters", None),
             )
-            self.tokenizer = transformers.BartTokenizer.from_pretrained(
+            self.tokenizer = transformers.T5Tokenizer.from_pretrained(
                 "martinjosifoski/genie-rw"
                 if self.hparams.model_name_or_path == "random"
                 else self.hparams.model_name_or_path

@@ -1,0 +1,1 @@
+{"LearningRateScheduler-polynomial/pg1": 9.369194630872484e-05, "LearningRateScheduler-polynomial/pg2": 9.369194630872484e-05, "trainer/global_step": 10399, "_runtime": 1700, "_timestamp": 1711292428, "_step": 417, "train-nll_loss": 0.23653356730937958, "epoch": 1, "val-nll_loss": 0.17568346858024597, "_wandb": {"runtime": 1706}}

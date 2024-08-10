@@ -1,0 +1,24 @@
+{
+    "os": "Linux-6.5.0-14-generic-x86_64-with-glibc2.17",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-01-21T05:12:08.261232",
+    "startedAt": "2024-01-21T05:12:07.413012",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/admin1/Documents/GenIE/run.py",
+    "codePath": "run.py",
+    "git": {
+        "remote": "https://github.com/epfl-dlab/GenIE.git",
+        "commit": "c53d52f598c2940e00f753c97b3baf4ba144fc03"
+    },
+    "email": "ye.yuan3@mail.mcgill.ca",
+    "root": "/home/admin1/Documents/GenIE",
+    "host": "Admin",
+    "username": "admin1",
+    "executable": "/home/admin1/anaconda3/envs/GenIE/bin/python"
+}

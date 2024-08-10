@@ -41,7 +41,8 @@ def evaluate(config: DictConfig) -> Optional[float]:
         tokenizer=model.tokenizer,
         max_input_length=model.hparams.max_input_length,
         max_output_length=model.hparams.max_output_length,
-        load_debug_set=config.datamodule.get("load_debug_set", False) or config.debug_testing,
+        # load_debug_set=config.datamodule.get("load_debug_set", False) or config.debug_testing,
+        load_debug_set=config.datamodule.get("load_debug_set", False),
     )
 
     # Initialize LIT callbacks

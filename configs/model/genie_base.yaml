@@ -3,16 +3,16 @@ defaults:
 
 _target_: genie.models.genie_base_pl.GeniePL
 
-model_name_or_path: facebook/bart-large
-max_input_length: 256
-max_output_length: 256
+model_name_or_path: t5-large
+max_input_length: 512
+max_output_length: 512
 bos_as_first_token_generated: True
 
 # TODO (p_low): To move to trainer/optimizer and link them
 # TODO (p_low): Make recursive instantiation of optimizer and scheduler
 # --- Learning rates and Schedulers ---
-lr: 3e-05
-weight_decay: 0.01
+lr: 1e-04
+weight_decay: 0
 schedule_name: "polynomial" # or linear
 lr_end: 0.0
 

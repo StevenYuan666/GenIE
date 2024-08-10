@@ -149,3 +149,5 @@ data/*
 .png
 .jpg
 .pdf
+
+*.ckpt

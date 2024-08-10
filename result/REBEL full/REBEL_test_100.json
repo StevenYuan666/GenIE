@@ -1,0 +1,1820 @@
+{
+    "0": {
+        "description": "Andr\u00e9 Fuhrmann (born 30 April 1958 in Essen, Germany) is a Professor of Philosophy and Logic at the Goethe University Frankfurt.",
+        "entities": {
+            "0": {
+                "entity name": "Andr\u00e9 Fuhrmann",
+                "place of birth": "Essen",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Essen",
+                "country": "Germany",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Logic",
+                "subclass of": "Philosophy",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Goethe University Frankfurt",
+                "country": "Germany",
+                "type": "unknown"
+            }
+        }
+    },
+    "1": {
+        "description": "Weeze (, Dutch: \"Wees\") is a municipality in the Lower Rhine (Niederrhein) region, in the northwestern part of North Rhine-Westphalia in the district of Kleve in the region of D\u00fcsseldorf.\n\nThe municipality consists of the town of Weeze and the village of Wemb and has approximately 10,500 inhabitants. It is situated in the district of Kleve, embedded in the northwestern part of the Lower Rhine Region, and lies between Goch to the north and Kevelaer to the south. The Netherlands lie directly to the west.",
+        "entities": {
+            "0": {
+                "entity name": "Weeze",
+                "located in the administrative territorial entity": "Kleve",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Lower Rhine",
+                "located in the administrative territorial entity": "North Rhine-Westphalia",
+                "type": "unknown"
+            }
+        }
+    },
+    "2": {
+        "description": "Daniel Ivernel (3 June 1920 \u2013 11 November 1999) was a French film actor. He appeared in 50 films between 1947 and 1981.",
+        "entities": {
+            "0": {
+                "entity name": "Daniel Ivernel",
+                "date of birth": "3 June 1920",
+                "date of death": "11 November 1999",
+                "type": "unknown"
+            }
+        }
+    },
+    "3": {
+        "description": "Barry Schweid (July 30, 1932 \u2013 December 10, 2015) was an American journalist. As a correspondent for the Associated Press (AP), he reported on politics and international diplomacy from the 1950s until his retirement in 2012.\n\nSchweid was born in New York City. He attended Stuyvesant High School (class of 1949), Columbia University (class of 1953), where he worked on the \"Columbia Daily Spectator\", and the Columbia University Graduate School of Journalism (1954). After Columbia, Schweid worked in the U.S. Army as a public relations specialist before joining the AP.\n\nAfter his death, U.S. Secretary of State John Kerry released a statement calling Schweid \"an Associated Press legend and the longtime dean of the State Department press corps\".",
+        "entities": {
+            "0": {
+                "entity name": "Barry Schweid",
+                "date of birth": "July 30, 1932",
+                "date of death": "December 10, 2015",
+                "educated at": "Stuyvesant High School",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Columbia University Graduate School of Journalism",
+                "part of": "Columbia University",
+                "type": "unknown"
+            }
+        }
+    },
+    "4": {
+        "description": "The Colorado Gold Kings, previously known as the Alaska Gold Kings, were an American professional minor league ice hockey team based in Fairbanks, Alaska, and later Colorado Springs, Colorado. The Gold Kings were members of the West Coast Hockey League.",
+        "entities": {
+            "0": {
+                "entity name": "Colorado Gold Kings",
+                "country": "American",
+                "sport": "ice hockey",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "American",
+                "contains administrative territorial entity": "Colorado",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Fairbanks",
+                "country": "American",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Alaska",
+                "located in the administrative territorial entity": "American",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Colorado Springs",
+                "country": "American",
+                "type": "unknown"
+            },
+            "5": {
+                "entity name": "Colorado",
+                "country": "American",
+                "type": "unknown"
+            }
+        }
+    },
+    "5": {
+        "description": "Wrenn School is a coeducational secondary comprehensive school and Sixth form with academy status, located in Wellingborough, Northamptonshire, England.",
+        "entities": {
+            "0": {
+                "entity name": "comprehensive school",
+                "subclass of": "secondary",
+                "type": "unknown"
+            }
+        }
+    },
+    "6": {
+        "description": "Mih\u00e1ly Esztergomi (13 June 1912 \u2013 25 November 1993) was a Hungarian long-distance runner. He competed in the marathon at the 1952 Summer Olympics.",
+        "entities": {
+            "0": {
+                "entity name": "Mih\u00e1ly Esztergomi",
+                "date of birth": "13 June 1912",
+                "date of death": "25 November 1993",
+                "participant in": "1952 Summer Olympics",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "marathon",
+                "point in time": "1952",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "1952 Summer Olympics",
+                "point in time": "1952",
+                "type": "unknown"
+            }
+        }
+    },
+    "7": {
+        "description": "Janakan () is a 2010 Indian Malayalam-language crime thriller film directed by N. R. Sanjeev and written by S. N. Swami, starring Mohanlal and Suresh Gopi. The music was composed by M. Jayachandran. It was released on 8 April 2010 in Kerala and was distributed by Maxlab Entertainments. \"Janakan\" is credited as the 200th film appearance of Suresh Gopi. The film won the Kerala State Film Award for Best Singer for Rajalakshmy for the song \"Olichirunne\".",
+        "entities": {
+            "0": {
+                "entity name": "Janakan",
+                "cast member": "Mohanlal",
+                "publication date": "2010",
+                "type": "unknown"
+            }
+        }
+    },
+    "8": {
+        "description": "Quararibea turbinata, also known as the swizzlestick tree, is an aromatic plant native to such Caribbean locales as Antigua, Barbados, Dominica, Grenada, Guadeloupe, Hispaniola, Martinique, Montserrat, Netherlands Antilles, Puerto Rico, St. Kitts and Nevis, St. Lucia, Saint Vincent and the Grenadines and the Virgin Islands. It is generally described as a perennial tree or shrub and its common name comes from its use as a swizzle stick and its association with cocktails such as the Rum Swizzle.",
+        "entities": {
+            "0": {
+                "entity name": "Antigua",
+                "location": "Caribbean",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Dominica",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "shrub",
+                "subclass of": "perennial",
+                "type": "unknown"
+            }
+        }
+    },
+    "9": {
+        "description": "Ren\u00e9 van der Wouden (born February 10, 1972) is a Dutch electronic musician.",
+        "entities": {
+            "0": {
+                "entity name": "Ren\u00e9 van der Wouden",
+                "date of birth": "February 10, 1972",
+                "type": "unknown"
+            }
+        }
+    },
+    "10": {
+        "description": "The Windrose Site is a 19th-century Potawatomi village site in Kankakee County, Illinois. The site is likely associated with a Potawatomi village named \"Rock\" or \"Little Rock\" (likely \"Senis\" in Potawatomi); it was occupied from circa 1775 until the Potawatomi were forcibly removed from Illinois in the 1830s. Many of the artifacts recovered from the site are related to the fur trade, a large part of the Potawatomi economy and a source of cultural interaction between the Potawatomi and Europeans. The majority of the artifacts reflect traditional Potawatomi culture, including smoking pipes used for religious rituals. Items deriving from the U.S. government's efforts at the time to force European culture upon Native Americans represent less than 5% of those found at the site, a sign that these efforts were not particularly successful with the Potawatomi.",
+        "entities": {
+            "0": {
+                "entity name": "Windrose Site",
+                "located in the administrative territorial entity": "Kankakee County",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Kankakee County",
+                "located in the administrative territorial entity": "Illinois",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Illinois",
+                "contains administrative territorial entity": "Kankakee County",
+                "type": "unknown"
+            }
+        }
+    },
+    "11": {
+        "description": "Smooth as Satin is a 1925 American silent drama film based upon the stage play, \"The Chatterbox\", by Bayard Veiller. It was directed by Ralph Ince and stars Evelyn Brent. The film is considered to be lost. It was remade in 1930, entitled \"Alias French Gertie\".",
+        "entities": {
+            "0": {
+                "entity name": "Smooth as Satin",
+                "genre": "drama film",
+                "publication date": "1925",
+                "director": "Ralph Ince",
+                "cast member": "Evelyn Brent",
+                "type": "unknown"
+            }
+        }
+    },
+    "12": {
+        "description": "Alberto Braniff Ricard (8 December 1886 \u2013 17 September 1966) was a pioneering Mexican airplane pilot. He is considered the first aviator in Latin America.",
+        "entities": {
+            "0": {
+                "entity name": "Alberto Braniff",
+                "date of death": "17 September 1966",
+                "type": "unknown"
+            }
+        }
+    },
+    "13": {
+        "description": "Holocentrus adscensionis is a squirrelfish of the family Holocentridae found in the Atlantic Ocean. Its range extends from North Carolina, USA to Brazil and throughout the Caribbean Sea in the Western Atlantic and from Gabon to Ascension Island in the Eastern Atlantic. It generally stays between below the surface, but can be found at the surface or as deep as . It can reach up to TL in length, although it is more common for individuals to be around TL.",
+        "entities": {
+            "0": {
+                "entity name": "squirrelfish",
+                "parent taxon": "Holocentridae",
+                "type": "unknown"
+            }
+        }
+    },
+    "14": {
+        "description": "Jess Walter (born July 20, 1965) is an American author of seven novels, a collection of short stories, and a non-fiction book. His books have been published in twenty-six countries and translated into twenty-eight languages. He is the recipient of the Edgar Allan Poe Award, among others, and was a finalist for the National Book Award in 2006.",
+        "entities": {
+            "0": {
+                "entity name": "Jess Walter",
+                "date of birth": "July 20, 1965",
+                "type": "unknown"
+            }
+        }
+    },
+    "15": {
+        "description": "Jan Lenica (4 January 1928, Pozna\u0144, Poland - 5 October 2001, Berlin) was a Polish graphic designer and cartoonist.\n\nA graduate of the Architecture Department of Warsaw Polytechnic, Lenica became a poster illustrator and a collaborator on the early animation films of Walerian Borowczyk. From 1963 - 1986 he lived and worked in France, while from 1987 he lived and worked in Berlin. He was a professor of graphic, poster, animated cartoon for many years at German high schools and the first professor of the animation class at the University of Kassel, Germany, in 1979. He used cut-out stop motion animation in his numerous films, which included two features: \"Adam 2\" (1968) and \"Ubu et la grande gidouille\" (1976, but released in France only in 1979).",
+        "entities": {
+            "0": {
+                "entity name": "Jan Lenica",
+                "place of birth": "Pozna\u0144",
+                "country of citizenship": "Poland",
+                "date of birth": "4 January 1928",
+                "date of death": "5 October 2001",
+                "educated at": "Warsaw Polytechnic",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Pozna\u0144",
+                "country": "Poland",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "cut-out",
+                "subclass of": "stop motion",
+                "type": "unknown"
+            }
+        }
+    },
+    "16": {
+        "description": "William Tennent III (1740August 11, 1777) was a Presbyterian pastor and South Carolina politician. He was born and educated in northern Colonial America, but spent the latter part of his life in the southern state of South Carolina. He was a prominent advocate for the dis-establishment of any state religion. He is known for his opposition to British colonial policy, publishing patriotic essays in support of the revolution. He was selected to travel in 1775 into the \"back county\" of South Carolina to convert Loyalists to the cause. In the state assembly, he lobbied for religious liberty in the drafting of state constitutions.",
+        "entities": {
+            "0": {
+                "entity name": "William Tennent III",
+                "date of death": "1777",
+                "type": "unknown"
+            }
+        }
+    },
+    "17": {
+        "description": "The 2010 Omloop Het Nieuwsblad cycle race took place on 27 February 2010. It was the 65th edition of the international classic Omloop Het Nieuwsblad. The race was the first 1.HC event in the 2010 UCI World Ranking.",
+        "entities": {
+            "0": {
+                "entity name": "2010 Omloop Het Nieuwsblad",
+                "point in time": "27 February 2010",
+                "type": "unknown"
+            }
+        }
+    },
+    "18": {
+        "description": "Browder J. Thompson (August 14, 1903 \u2013 July 4/5, 1944) was a noted American electrical engineer.\n\nThompson was born in Roanoke, Louisiana, and in 1925 received his Bachelor of Science degree in electrical engineering from the University of Washington, Seattle. In 1926 he joined General Electric's research laboratory to design vacuum tubes. In 1931 he transferred to the RCA Radiotron Company, in Harrison, New Jersey, as part of the company's antitrust settlement, to lead its electrical research. Thompson was co-director of RCA Laboratories, Princeton, New Jersey, from 1942 until December, 1943, when he accepted a special assignment for the Secretary of War. He was killed in action in World War II while observing an air-to-ground radar during a night flight over Italy.\n\nThompson was a Fellow of the Institute of Radio Engineers, and received the 1936 IEEE Morris N. Liebmann Memorial Award \"for his contribution to the vacuum-tube art in the field of very-high frequencies.\" The Browder J. Thompson Prize Award was named in his honor.",
+        "entities": {
+            "0": {
+                "entity name": "Browder J. Thompson",
+                "date of birth": "August 14, 1903",
+                "date of death": "1944",
+                "award received": "IEEE Morris N. Liebmann Memorial Award",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "University of Washington",
+                "located in the administrative territorial entity": "Seattle",
+                "type": "unknown"
+            }
+        }
+    },
+    "19": {
+        "description": "Alfred Kevin Willhite (born May 4, 1963) is a former collegiate and professional American football player.\n\nWillhite attended Cordova High School in Rancho Cordova, California, graduating in 1982. He was one of the greatest running backs in California prep history, rushing for 4,901 yards and scoring 72 touchdowns. He was selected into the Sac-Joaquin section Hall of Fame.\n\nHe was also a great prep sprinter. As a junior in 1981, he won the 200 meters at the California State track meet with a legal wind-aided time of 20.8. As a senior in 1982, he ran 100 meters in 10.5 and had a hand-timed 10.4.\n\nIn 1981, he was named the California prep athlete of the year (for football and track) and was separately named the California prep football player of the year. After his senior football year, he also earned three national honors. He received the Dial Award as the outstanding scholar-athlete of the year. Making the 1982 \"Parade Magazine\" All-American team, he was named the national back of the year, despite very highly recruited Marcus Dupree from Philadelphia, Mississippi, who became a freshman sensation with the Oklahoma Sooners as a true freshman in 1982, being a contender. He was also selected for the Sam B. Nicola Trophy as the National High school Player of the Year by the Touchdown Club of Columbus, Ohio in 1981. In the 1982 Long Beach Press Telegram Best in the West football recruits rankings, he received 10 votes for the best college running back prospect on the West Coast which was the most a recruit could receive.\n\nOne of most highly recruited prep football players ever out of the State of California in 1981\u20131982, he verbally committed to the University of Washington about three weeks before National Signing Day on February 10, 1982, despite the Huskies already having RB Jacque Robinson who as a freshman was the MVP of the 1982 Rose Bowl game in which the Huskies beat Iowa 28\u20130. But on signing day, Willhite shocked the college football world and signed with the University of Oregon. Reportedly, he ultimately chose the Ducks over the Huskies because of the Ducks' track program.\n\nWillhite severely tore his hamstring during his senior high school track season in 1982 and then suffered further injuries at the University of Oregon during his freshman season, which resulted in him redshirting in 1982. He had an undistinguished college football career. Because of the effect of his injuries, he was switched to fullback where he was used mostly as a blocking back. He became a starter his senior year.\n\nDuring the NFL strike season of 1987, Willhite became a replacement player for the Green Bay Packers. In three games for the Packers, he rushed for 251 yards on 53 carries (4.7 avg), with a long run of 61 yards, but no touchdowns. He is the younger brother of former Denver Broncos' RB Gerald Willhite.",
+        "entities": {
+            "0": {
+                "entity name": "Kevin Willhite",
+                "sport": "American football",
+                "date of birth": "May 4, 1963",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Cordova High School",
+                "located in the administrative territorial entity": "Rancho Cordova, California",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Marcus Dupree",
+                "place of birth": "Philadelphia, Mississippi",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Gerald Willhite",
+                "member of sports team": "Denver Broncos",
+                "type": "unknown"
+            }
+        }
+    },
+    "20": {
+        "description": "Karin\u00eb is a village and a former municipality in the Elbasan County, central Albania. At the 2015 local government reform it became a subdivision of the municipality Peqin. The population at the 2011 census was 1,350. The municipality consists of the villages Karin\u00eb, Kazije, Rrozej, Progem, Sinametaj, Drangaj and Garunje.",
+        "entities": {
+            "0": {
+                "entity name": "Elbasan County",
+                "country": "Albania",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Albania",
+                "contains administrative territorial entity": "Elbasan County",
+                "type": "unknown"
+            }
+        }
+    },
+    "21": {
+        "description": "Neufmoulin is a commune in the Somme department in Hauts-de-France in northern France.",
+        "entities": {
+            "0": {
+                "entity name": "Neufmoulin",
+                "located in the administrative territorial entity": "Somme",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Somme",
+                "located in the administrative territorial entity": "Hauts-de-France",
+                "country": "France",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "department",
+                "country": "France",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Hauts-de-France",
+                "contains administrative territorial entity": "Somme",
+                "country": "France",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "France",
+                "contains administrative territorial entity": "Hauts-de-France",
+                "type": "unknown"
+            }
+        }
+    },
+    "22": {
+        "description": "The Nowruz oil field, in the Persian Gulf, Iran, was the site of several 1983 oil spills.",
+        "entities": {
+            "0": {
+                "entity name": "Persian Gulf",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Iran",
+                "located in or next to body of water": "Persian Gulf",
+                "type": "unknown"
+            }
+        }
+    },
+    "23": {
+        "description": "Daniel Mowry Jr. (August 27, 1729 \u2013 July 6, 1806) was an American cooper and farmer from Smithfield, Rhode Island. He served as a delegate for Rhode Island in the Continental Congress from 1780 to 1782.",
+        "entities": {
+            "0": {
+                "entity name": "Daniel Mowry Jr.",
+                "place of birth": "Smithfield, Rhode Island",
+                "date of birth": "August 27, 1729",
+                "date of death": "July 6, 1806",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Smithfield, Rhode Island",
+                "country": "American",
+                "type": "unknown"
+            }
+        }
+    },
+    "24": {
+        "description": "\u00c1ngel Dar\u00edo Banegas Leiva (born 21 October 1969 in Santa B\u00e1rbara, Honduras) is a Honduran political cartoonist, former reporter, television host and politician. He currently serves as deputy of the National Congress of Honduras representing the Liberal Party of Honduras for Cort\u00e9s.",
+        "entities": {
+            "0": {
+                "entity name": "\u00c1ngel Dar\u00edo Banegas",
+                "place of birth": "Santa B\u00e1rbara, Honduras",
+                "date of birth": "21 October 1969",
+                "member of political party": "Liberal Party of Honduras",
+                "type": "unknown"
+            }
+        }
+    },
+    "25": {
+        "description": "Saint-Hilaire-Taurieux is a commune in the Corr\u00e8ze department in central France.",
+        "entities": {
+            "0": {
+                "entity name": "Saint-Hilaire-Taurieux",
+                "located in the administrative territorial entity": "Corr\u00e8ze",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Corr\u00e8ze",
+                "country": "France",
+                "type": "department"
+            },
+            "2": {
+                "entity name": "department",
+                "country": "France",
+                "type": "unknown"
+            }
+        }
+    },
+    "26": {
+        "description": "Anything Box is an electronic/synthpop musical group originally from Paterson, New Jersey and now based in Long Beach, California. Formed in 1986, they are best known for their 1989 single \"Living in Oblivion\". They also garnered some attention for releasing an album entirely in MP3 format in 2003. With a current lineup consisting solely of Claude Strilio, the past members have included long-time members Dania Morales and Paul Rijnders, as well as Carlos Pacheco, Mike Zacek, Gary Strilio, Dave South and Barry Bunch. The band is noted for its melodic, synth-driven dance beats from its early years as well as its fusion of electronics and guitars which is its current musical focus. The band also receives praise for its album artwork which ranges from oil paintings to electronic paintings which are all works of Claude Strilio. Anything Box (also known as Abox by fans) has released several albums, EPs, and singles, and continues to perform around the world.\n\nThe band's name comes from the title of a book of short stories by Zenna Henderson, \"The Anything Box\". In the title story, a young girl imagines the world as she would have it, apparently by staring at an empty space between her hands. Her school teacher discovers that the box is invisible, but real.\n\nAnything Box's most recent release is \"Peace\" (Endpop.com, January 2018) which is a remastered version of their first album, and features remixes of their hits \"Living in Oblivion\" and \"Jubilation\".",
+        "entities": {
+            "0": {
+                "entity name": "Anything Box",
+                "inception": "1986",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "synthpop",
+                "subclass of": "electronic",
+                "type": "unknown"
+            }
+        }
+    },
+    "27": {
+        "description": "\u00d6dsm\u00e5ls IK is a Swedish football club located in \u00d6dsm\u00e5l. Their March 2020 calendar has been announced on their website.",
+        "entities": {
+            "0": {
+                "entity name": "\u00d6dsm\u00e5ls IK",
+                "sport": "football club",
+                "type": "unknown"
+            }
+        }
+    },
+    "28": {
+        "description": "Hillous Buel \"Bew\" Butrum (April 21, 1928 \u2013 April 27, 2002) was an American country music guitar player and a record and video producer best known as being a member of Hank Williams' Drifting Cowboys.\n\nHillous Butrum was born in Lafayette, Tennessee. Butrum found his way to Nashville and landed a job at WSM Radio. He eventually wound up a staff musician on the Grand Ole Opry, at age 16. From there, he played bass for Hank Williams' band \"The Drifting Cowboys.\" He would play with the Drifting Cowboys from 1949 until 1950. After the passing of Williams, Butrum joined Hank Snow's band, the Rainbow Ranch Boys, and later played on many Marty Robbins recording sessions. He'd eventually start a music publishing company with Robbins.\n\nHe established \"Butrum Enterprises Publishing Company\" and owned Look Records. He produced many early country music documentaries including \"Music City USA\". Butrum would tour again, from 1977 to 1984, with the reformed Drifting Cowboys.\n\nLater in life, Butrum became active in the \"Reunion of Professional Entertainers,\" and distributed vintage country music videos through Nashville retail stores and his website.\n\nHillous Butrum died in his Nashville home about two weeks after the death of his wife Phyllis (Frost) Butrum. His funeral was held in Goodlettsville, Tennessee and was attended by notable music industry figures including Hal Bynum, Merle Kilgore, Bobby Tomberlin, Robbie Wittkowski, Tim Jones, and Don Helms. He was interred in the Underwood Cemetery in his hometown of Lafayette.\n\nThe day before Butrum's death, he agreed to an exclusive interview with \"Country Music Source\" magazine detailing his long and inspiring music career. The interview was scheduled for April 29, 2002. In lieu of the interview, \"Country Music Source\" printed a memoriam for Butrum.",
+        "entities": {
+            "0": {
+                "entity name": "Hillous Butrum",
+                "part of": "Drifting Cowboys",
+                "date of birth": "April 21, 1928",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "country music",
+                "country of origin": "American",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Hank Williams",
+                "genre": "country music",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Drifting Cowboys",
+                "country of origin": "American",
+                "genre": "country music",
+                "type": "unknown"
+            }
+        }
+    },
+    "29": {
+        "description": "Flora Rose (October 13, 1874 \u2013 July 25, 1959) was an American scientist, nutritionist, and co-director of what would become New York State College of Human Ecology. Rose, along with Martha Van Rensselaer, was named the first full-time female professor at Cornell University.",
+        "entities": {
+            "0": {
+                "entity name": "Flora Rose",
+                "date of birth": "October 13, 1874",
+                "date of death": "July 25, 1959",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Martha Van Rensselaer",
+                "educated at": "Cornell University",
+                "type": "unknown"
+            }
+        }
+    },
+    "30": {
+        "description": "The COVID-19 pandemic in Paraguay is part of the ongoing worldwide pandemic of coronavirus disease 2019 () caused by severe acute respiratory syndrome coronavirus\u00a02 (). The virus was confirmed to have reached Paraguay on 7 March 2020 in a 32-year-old man from Guayaquil, Ecuador, living in San Lorenzo, Central department.\n\nOn 10 March, the Paraguayan government suspended classes and all activities that involve groups of people, as well as public and private events, with the goal of avoiding the spread of the virus, in accordance with Decree no. 3442/2020. Other preventive measures have been adopted as time has gone by, such as restrictions on commerce and movement, suspension of flights, closure of borders, restricting entry of foreigners, curfews, and strengthening controls to ensure compliance with the measures.\n\nOn 20 March, the first death and the first case of community transmission were confirmed. The government declared a total quarantine until 3 May, with free movement completely restricted. Public movement was restricted to buying food, medicine and other essential items. From May 4, Paraguay implemented the so-called \u201cIntelligent/Smart\u201d Quarantine, a gradual return to work and social activities with social distancing and hygiene measures. However, the government decided to maintain the closure of borders and other restrictions.\n\nSince October 5, advance to a kind of new normal known as the \"Covid way of living\", releasing most of the activities while maintaining health care until the appearance of some vaccine or cure. International opening is already allowed, such as international flights or the opening of land borders. Eventually, specific exceptions could be raised by zones or by a particular economic sector, if the circumstances require it. Distance education and night curfew are maintained indefinitely.",
+        "entities": {
+            "0": {
+                "entity name": "COVID-19 pandemic in Paraguay",
+                "country": "Paraguay",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "coronavirus disease 2019",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Paraguay",
+                "contains administrative territorial entity": "Central department",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Guayaquil",
+                "country": "Ecuador",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "San Lorenzo",
+                "located in the administrative territorial entity": "Central department",
+                "type": "unknown"
+            },
+            "5": {
+                "entity name": "Central department",
+                "country": "Paraguay",
+                "type": "unknown"
+            }
+        }
+    },
+    "31": {
+        "description": "Doug and the Slugs are a Canadian pop music group formed in 1977 in Vancouver, British Columbia. The band enjoyed a number of Canadian top 40 hits in the 1980s, most notably \"Too Bad\" (1980), \"Who Knows How To Make Love Stay\" (1982), \"Making It Work\" (1983) and \"Tomcat Prowl\" (1988). The song \"Too Bad\" served as the theme song for the 1999-2001 ABC sitcom \"The Norm Show\", starring Norm Macdonald.",
+        "entities": {
+            "0": {
+                "entity name": "Doug and the Slugs",
+                "genre": "pop music",
+                "inception": "1977",
+                "type": "unknown"
+            }
+        }
+    },
+    "32": {
+        "description": "KZOI (1250 AM) and its translator at 97.1 FM is a radio station licensed to serve Dakota City, Nebraska. The station is owned by Joaquin Garza's Fiesta Radio, through licensee La Fiesta 971, LLC. It airs a regional Mexican format.\n\nThe station was assigned the call letters KTFJ by the Federal Communications Commission on April 28, 1988, and changed to the current KZOI on March 6, 2014.\n\nIn November 2017, KZOI changed their format from 80s hits to Regional Mexican, branded as \"La Fiesta 97.1\".",
+        "entities": {
+            "0": {
+                "entity name": "KZOI",
+                "type": "unknown"
+            }
+        }
+    },
+    "33": {
+        "description": "Pararheinheimera mesophila is a Gram-negative bacterium from the genus of \"Pararheinheimera\" which has been isolated from sandy soil which was contaminated with pesticide from Eloor in India.",
+        "entities": {
+            "0": {
+                "entity name": "Eloor",
+                "country": "India",
+                "type": "unknown"
+            }
+        }
+    },
+    "34": {
+        "description": "Chandrachud is prominent Indian family of Nobles, Sardars, Jagirdars during Maratha Empire in Pune. They belong to Deshastha Rigvedi Brahmin (DRB) community. Diwan Yashwant Gangadhar Chandrachud, a member of chandrachud family held twenty two villages as watan, including Newasa Budruk as Jagirdar. Chandrachud Wada was the seat of the Chandrachuds of the Maratha Empire until 1818, when the Peshwas lost control to the British East India Company after the Third Anglo-Maratha War. The famous Chandrachud Wada still standing defiantly in Poona.",
+        "entities": {
+            "0": {
+                "entity name": "Third Anglo-Maratha War",
+                "type": "unknown"
+            }
+        }
+    },
+    "35": {
+        "description": "Nesslau-Neu St. Johann railway station () is a railway station in Nesslau, in the Swiss canton of St. Gallen. It is the souther terminus of the Bodensee\u2013Toggenburg railway and is served by local trains only.",
+        "entities": {
+            "0": {
+                "entity name": "Nesslau-Neu St. Johann railway station",
+                "located in the administrative territorial entity": "Nesslau",
+                "country": "Swiss",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Nesslau",
+                "country": "Swiss",
+                "located in the administrative territorial entity": "St. Gallen",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Swiss",
+                "contains administrative territorial entity": "St. Gallen",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "canton",
+                "country": "Swiss",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "St. Gallen",
+                "country": "Swiss",
+                "type": "canton"
+            }
+        }
+    },
+    "36": {
+        "description": "Baloki is a village in Nakodar in Jalandhar district of Punjab State, India. It is located 16.5\u00a0km from Nakodar, 51\u00a0km from Kapurthala, 41.6\u00a0km from district headquarter Jalandhar and 162\u00a0km from state capital Chandigarh. The village is administrated by a sarpanch who is an elected representative of the village.",
+        "entities": {
+            "0": {
+                "entity name": "Baloki",
+                "located in the administrative territorial entity": "Jalandhar district",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Nakodar",
+                "located in the administrative territorial entity": "Jalandhar district",
+                "type": "unknown"
+            }
+        }
+    },
+    "37": {
+        "description": "Gun Control Australia (GCA) is an Australian incorporated anti-gun association that advocates for tighter gun laws. Its website is run by volunteer lawyers, public health academics and social media activists . The organisation is funded by community donations and is not officially affiliated with any political party.\n\nThe organisation was originally known as the National Coalition for Gun Control, established by Rebecca Peters. The current GCA was incorporated in New South Wales on 26 August 2013. Its Chair is Samantha Lee and Vice President is Roland Browne, both are lawyers who have volunteered in the area of gun control for over ten years.",
+        "entities": {
+            "0": {
+                "entity name": "Gun Control Australia",
+                "country": "Australia",
+                "type": "unknown"
+            }
+        }
+    },
+    "38": {
+        "description": "HungKuo Delin University of Technology (HDUT; ) is a private university in Tucheng District, New Taipei, Taiwan.",
+        "entities": {
+            "0": {
+                "entity name": "HungKuo Delin University of Technology",
+                "country": "Taiwan",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Tucheng District",
+                "located in the administrative territorial entity": "New Taipei",
+                "country": "Taiwan",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "New Taipei",
+                "contains administrative territorial entity": "Tucheng District",
+                "located in the administrative territorial entity": "Taiwan",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Taiwan",
+                "contains administrative territorial entity": "New Taipei",
+                "type": "unknown"
+            }
+        }
+    },
+    "39": {
+        "description": "Edd Nye was a Democratic member of the North Carolina General Assembly representing the US state's twenty-second House district, including constituents in Bladen and Sampson counties. An insurance professional from Elizabethtown, North Carolina, Nye is (2003-2004 session) serving in his thirteenth term in the state House, where he holds the position of Permanent Democratic Caucus Chair. Nye is one of the chief budget writers in the North Carolina House. Nye previously served one term in the state Senate.",
+        "entities": {
+            "0": {
+                "entity name": "Edd Nye",
+                "member of political party": "Democratic",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "North Carolina General Assembly",
+                "country": "US",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Bladen",
+                "country": "US",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Sampson",
+                "country": "US",
+                "type": "unknown"
+            }
+        }
+    },
+    "40": {
+        "description": "W\u00f3lka Du\u017ca is a village in the administrative district of Gmina Wysokie Mazowieckie, within Wysokie Mazowieckie County, Podlaskie Voivodeship, in north-eastern Poland. It lies approximately west of Wysokie Mazowieckie and south-west of the regional capital Bia\u0142ystok.",
+        "entities": {
+            "0": {
+                "entity name": "W\u00f3lka Du\u017ca",
+                "located in the administrative territorial entity": "Gmina Wysokie Mazowieckie",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Gmina Wysokie Mazowieckie",
+                "located in the administrative territorial entity": "Wysokie Mazowieckie County",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Wysokie Mazowieckie County",
+                "contains administrative territorial entity": "Gmina Wysokie Mazowieckie",
+                "located in the administrative territorial entity": "Podlaskie Voivodeship",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Podlaskie Voivodeship",
+                "contains administrative territorial entity": "Wysokie Mazowieckie County",
+                "type": "unknown"
+            }
+        }
+    },
+    "41": {
+        "description": "Krasnye Chetai (, ) is a rural locality (a selo) and the administrative center of Krasnochetaysky District of the Chuvash Republic, Russia. Population: ",
+        "entities": {
+            "0": {
+                "entity name": "Krasnye Chetai",
+                "country": "Russia",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "rural locality",
+                "country": "Russia",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Krasnochetaysky District",
+                "located in the administrative territorial entity": "Chuvash Republic",
+                "country": "Russia",
+                "capital": "Krasnye Chetai",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Chuvash Republic",
+                "located in the administrative territorial entity": "Russia",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Russia",
+                "contains administrative territorial entity": "Chuvash Republic",
+                "type": "unknown"
+            }
+        }
+    },
+    "42": {
+        "description": "The 2019 Eastern Intercollegiate Volleyball Association Tournament was the men's volleyball tournament for the Eastern Intercollegiate Volleyball Association during the 2019 NCAA Division I & II men's volleyball season. It was held April 18 through April 20, 2019 at Princeton University's Dillon Gymnasium. The winner received The Association's automatic bid to the 2019 NCAA Volleyball Tournament. ",
+        "entities": {
+            "0": {
+                "entity name": "NCAA Division I & II",
+                "sport": "volleyball",
+                "type": "unknown"
+            }
+        }
+    },
+    "43": {
+        "description": "Levan Aroshidze (born July 9, 1985) is a Georgian chess grandmaster. In 1995, he became World under 10 champion at the age of nine. He won the 13th Obert Internacional d\u2019Escacs Ciutat d\u2019Olot tournament in Olot, Spain with 7.5/8 in joint first with Jorge Gonzalez Rodriguez.",
+        "entities": {
+            "0": {
+                "entity name": "Levan Aroshidze",
+                "sport": "chess",
+                "date of birth": "July 9, 1985",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "grandmaster",
+                "sport": "chess",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Olot",
+                "country": "Spain",
+                "type": "unknown"
+            }
+        }
+    },
+    "44": {
+        "description": "Sep Ruf (full name Franz Joseph Ruf; 9 March 1908, in Munich \u2013 29 July 1982, in Munich) was a German architect and designer strongly associated with the Bauhaus group. He was one of the representatives of modern architecture in Germany after World War II. His elegant buildings received high credits in Germany and Europe and his German pavilion of the Expo 58 in Brussels, built together with Egon Eiermann, achieved worldwide recognition. He attended the Interbau 1957 in Berlin-Hansaviertel and was one of the three architects who had the top secret order to create the governmental buildings in the new capital city of the Federal Republic of Germany, Bonn. His best known building was the residence for the Federal Chancellor of the Federal Republic of Germany, built for Ludwig Erhard, the so-called Chancellor's Bungalow.",
+        "entities": {
+            "0": {
+                "entity name": "Sep Ruf",
+                "place of birth": "Munich",
+                "date of birth": "9 March 1908",
+                "date of death": "29 July 1982",
+                "type": "unknown"
+            }
+        }
+    },
+    "45": {
+        "description": "Caucasus Krai () was an administrative division (a \"krai\") of the Russian Empire. It was established in 1844. From that time until 1882 the head of the region (krai) was Viceroy-namestnik (), during 1882\u20131905 \"glavnoupravlyayushchiy\" or \"glavnonachalstvuyushchy\" ( or \u0433\u043b\u0430\u0432\u043d\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439), and in 1905\u20131917 again \"namestnik\".",
+        "entities": {
+            "0": {
+                "entity name": "Caucasus Krai",
+                "inception": "1844",
+                "type": "unknown"
+            }
+        }
+    },
+    "46": {
+        "description": "Law enforcement in Cuba is the responsibility of the National Revolutionary Police Force (, PNR) under the administration of the Cuban Ministry of the Interior. Article 65 of the Cuban Constitution states that \"Defense of the socialist motherland is every Cuban's greatest honor and highest duty.\" Conscription into either the armed forces or the national police force is compulsory for those over the age of 16. Nevertheless, conscripts have no choice to which service they are assigned.\n\nCrime rates in Cuba remain significantly lower than many other major nations worldwide, with Cuban police acting strongly against any crime, particularly in Havana. Fidel Castro commented in 1998 that \"The war against crime is also a war against the imperialist enemy.\" Information on murder and rape crime statistics for the country have never been released by the government, however theft was estimated to be 6,531 cases in 1988, or 62 per 100,000 population.",
+        "entities": {
+            "0": {
+                "entity name": "Ministry of the Interior",
+                "country": "Cuba",
+                "type": "unknown"
+            }
+        }
+    },
+    "47": {
+        "description": "Bierzwnica (formerly German \"Reinfeld\") is a village in the administrative district of Gmina \u015awidwin, within \u015awidwin County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately south-east of \u015awidwin and east of the regional capital Szczecin.",
+        "entities": {
+            "0": {
+                "entity name": "Bierzwnica",
+                "located in the administrative territorial entity": "Gmina \u015awidwin",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Gmina \u015awidwin",
+                "located in the administrative territorial entity": "\u015awidwin County",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "\u015awidwin County",
+                "contains administrative territorial entity": "Gmina \u015awidwin",
+                "located in the administrative territorial entity": "West Pomeranian Voivodeship",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "West Pomeranian Voivodeship",
+                "contains administrative territorial entity": "\u015awidwin County",
+                "type": "unknown"
+            }
+        }
+    },
+    "48": {
+        "description": "The Argentina women's national field hockey squad records are the results for women's international field hockey competitions. The sport is controlled by the Argentine Hockey Confederation, the governing body for field hockey in Argentina.",
+        "entities": {
+            "0": {
+                "entity name": "Argentina women's national field hockey squad records",
+                "sport": "field hockey",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Argentine Hockey Confederation",
+                "country": "Argentina",
+                "type": "unknown"
+            }
+        }
+    },
+    "49": {
+        "description": "The 1995 Mid-Continent Conference Men's Basketball Tournament was held from March 3-7, 1995 at campus sites.\nThis was the twelfth edition of the tournament for the Association of Mid-Continent Universities, now known as the Summit League. As a result of 6 schools leaving the Mid-Continent Conference for what would become the Horizon League the winner did not receive an automatic bid to the 1995 NCAA Division I Men's Basketball Tournament, when in previous years that had been the case.",
+        "entities": {
+            "0": {
+                "entity name": "1995 NCAA Division I Men's Basketball Tournament",
+                "point in time": "1995",
+                "type": "unknown"
+            }
+        }
+    },
+    "50": {
+        "description": "Cora Bagley Marrett (born 1942) is an American sociologist. From May 2011 until August 2014, Marrett served as the Deputy Director of the National Science Foundation.",
+        "entities": {
+            "0": {
+                "entity name": "Cora Bagley Marrett",
+                "date of birth": "1942",
+                "type": "unknown"
+            }
+        }
+    },
+    "51": {
+        "description": "Roberto Ma\u00f1alich (born 4 March 1906, date of death unknown) was a Cuban fencer. He competed in the individual and team \u00e9p\u00e9e and individual sabre events at the 1948 Summer Olympics.",
+        "entities": {
+            "0": {
+                "entity name": "Roberto Ma\u00f1alich",
+                "date of birth": "4 March 1906",
+                "participant in": "1948 Summer Olympics",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "1948 Summer Olympics",
+                "point in time": "1948",
+                "type": "unknown"
+            }
+        }
+    },
+    "52": {
+        "description": "The Song of the Road is a 1937 British drama film directed by John Baxter and starring Bransby Williams, Ernest Butcher and Muriel George. It was made at Shepperton Studios. It was made as a supporting feature. Like Baxter's earlier \"The Song of the Plough\" (1933) the film examines the effect of modern technology on traditional working practices in the countryside.",
+        "entities": {
+            "0": {
+                "entity name": "The Song of the Road",
+                "genre": "drama film",
+                "director": "John Baxter",
+                "cast member": "Muriel George",
+                "publication date": "1937",
+                "type": "unknown"
+            }
+        }
+    },
+    "53": {
+        "description": "Serafino Amedeo De Ferrari (6 May 1824 \u2013 27 March 1885) was an Italian composer, conductor, organist, and pianist. He is best known for his operas, of which his most popular were \"Pipel\u00e8\" (1855) and \"Il Menestrello\" (1859).\n\nBorn in Genoa, Ferrari studied in his native city and in Milan. He performed widely as a concert organist and pianist. In 1852 he was highly active as a conductor in Amsterdam, after which he worked as the director of singing at the Teatro Carlo Felice in Genoa. He then worked in a similar capacity at the Teatro Carignano in Turin. He died in Genoa.",
+        "entities": {
+            "0": {
+                "entity name": "Serafino Amedeo De Ferrari",
+                "occupation": "organist",
+                "date of birth": "6 May 1824",
+                "date of death": "27 March 1885",
+                "type": "unknown"
+            }
+        }
+    },
+    "54": {
+        "description": "Webster Corners, New York is a hamlet in the town of Orchard Park in Erie County, New York, United States.",
+        "entities": {
+            "0": {
+                "entity name": "Webster Corners, New York",
+                "located in the administrative territorial entity": "New York",
+                "country": "United States",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "hamlet",
+                "country": "United States",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Orchard Park",
+                "located in the administrative territorial entity": "New York",
+                "country": "United States",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Erie County",
+                "located in the administrative territorial entity": "New York",
+                "country": "United States",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "New York",
+                "contains administrative territorial entity": "Erie County",
+                "country": "United States",
+                "type": "unknown"
+            },
+            "5": {
+                "entity name": "United States",
+                "contains administrative territorial entity": "New York",
+                "type": "unknown"
+            }
+        }
+    },
+    "55": {
+        "description": "The Hammond School, is a specialist co-educational performing arts school based in Chester, England.",
+        "entities": {
+            "0": {
+                "entity name": "The Hammond School",
+                "located in the administrative territorial entity": "Chester",
+                "type": "unknown"
+            }
+        }
+    },
+    "56": {
+        "description": "La Man\u00e1 Canton is a canton of Ecuador in the Cotopaxi Province. Its capital is the town of La Man\u00e1. Its population at the 2001 census was 32,115.",
+        "entities": {
+            "0": {
+                "entity name": "La Man\u00e1 Canton",
+                "country": "Ecuador",
+                "located in the administrative territorial entity": "Cotopaxi Province",
+                "type": "canton"
+            },
+            "1": {
+                "entity name": "canton",
+                "country": "Ecuador",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Ecuador",
+                "contains administrative territorial entity": "Cotopaxi Province",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Cotopaxi Province",
+                "country": "Ecuador",
+                "contains administrative territorial entity": "La Man\u00e1 Canton",
+                "type": "unknown"
+            }
+        }
+    },
+    "57": {
+        "description": "Pexicopia catharia is a moth of the family Gelechiidae. It was described by Ian Francis Bell Common in 1958. It is found in Australia, where it has been recorded from New South Wales and Queensland.",
+        "entities": {
+            "0": {
+                "entity name": "Australia",
+                "contains administrative territorial entity": "Queensland",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "New South Wales",
+                "country": "Australia",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Queensland",
+                "located in the administrative territorial entity": "Australia",
+                "type": "unknown"
+            }
+        }
+    },
+    "58": {
+        "description": "', officially the ' (Surigaonon: \"Lungsod nan Libjo\"; ; ; ), is a  in the province of , . According to the , it has a population of people.\n\nIt is formerly known as Albor.",
+        "entities": {
+            "0": {
+                "entity name": "Libjo",
+                "type": "unknown"
+            }
+        }
+    },
+    "59": {
+        "description": "Lakang is a village in Bhamo Township in Bhamo District in the Kachin State of north-eastern Myanmar.",
+        "entities": {
+            "0": {
+                "entity name": "Lakang",
+                "located in the administrative territorial entity": "Bhamo District",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Bhamo Township",
+                "located in the administrative territorial entity": "Bhamo District",
+                "country": "Myanmar",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Bhamo District",
+                "located in the administrative territorial entity": "Kachin State",
+                "country": "Myanmar",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Kachin State",
+                "country": "Myanmar",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Myanmar",
+                "contains administrative territorial entity": "Kachin State",
+                "type": "unknown"
+            }
+        }
+    },
+    "60": {
+        "description": "Canandaigua Lake State Marine Park is a New York state park and boat launch located on the north shore of Canandaigua Lake in Ontario County, New York.",
+        "entities": {
+            "0": {
+                "entity name": "Canandaigua Lake",
+                "located in the administrative territorial entity": "Ontario County",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Ontario County",
+                "located in the administrative territorial entity": "New York",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "New York",
+                "contains administrative territorial entity": "Ontario County",
+                "type": "unknown"
+            }
+        }
+    },
+    "61": {
+        "description": "\"I Like the Way (The Kissing Game)\" is a song recorded by American R&B group Hi-Five for their 1990 eponymous debut studio album. The song was written by Teddy Riley, Bernard Belle and Dave Way, and released as the album's second single on January 2, 1991, by the Jive label. It was a number-one pop song and was certified Gold by the Recording Industry Association of America (RIAA) on May 10, 1991. The video has an exceptionally large amount of dark colours and shadows in contrast to the light-hearted and bubblegum pop song that plays.",
+        "entities": {
+            "0": {
+                "entity name": "studio album",
+                "performer": "Hi-Five",
+                "type": "unknown"
+            }
+        }
+    },
+    "62": {
+        "description": "Joinville () is the largest city in Santa Catarina, in the Southern Region of Brazil. It is the third largest municipality in the southern region of Brazil, after the much larger state capitals of Curitiba and Porto Alegre. Joinville is also a major industrial, financial and commerce center.\n\nThe city has a very high human development index (0.809) among Brazilian municipalities, occupying the 21st national position. One study pointed to Joinville as the second best city to live in Brazil. Joinville holds the titles of \"Brazilian Manchester\", \"City of Flowers\", \"City of the Princes\", \"City of Bicycles\" and \"City of Dance\". It is known for hosting the Joinville Dance Festival (considered the largest dance festival in the world), as well as for having the only branch of the Bolshoi Ballet School outside Russia in the world.\n\nIn 2019, the population of Joinville was estimated at 590,400 people, many of whom are of Portuguese, German, Swiss, Norwegian and Italian descent. The metropolitan area is home to 1,340,997 residents according to the 2010 census by IBGE, thus, the most populous metropolitan region of the state of Santa Catarina.\n\nOwing to urban development and relatively good infrastructure, Joinville has become a major center for events and business conferences. The city has one of the highest standards of living in Latin America.",
+        "entities": {
+            "0": {
+                "entity name": "Joinville",
+                "located in the administrative territorial entity": "Santa Catarina",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Santa Catarina",
+                "part of": "Southern Region",
+                "country": "Brazil",
+                "contains administrative territorial entity": "Joinville",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Southern Region",
+                "country": "Brazil",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Brazil",
+                "contains administrative territorial entity": "Santa Catarina",
+                "type": "unknown"
+            }
+        }
+    },
+    "63": {
+        "description": "Carmen Guzman, (born July 16, 1985) is a Dominican Republic - American female professional basketball player.",
+        "entities": {
+            "0": {
+                "entity name": "Carmen Guzman",
+                "sport": "basketball",
+                "date of birth": "July 16, 1985",
+                "type": "unknown"
+            }
+        }
+    },
+    "64": {
+        "description": "Thamnochortus insignis is a species of grass-like restio of the family Restionaceae, endemic to Cape Province in South Africa.",
+        "entities": {
+            "0": {
+                "entity name": "Cape Province",
+                "country": "South Africa",
+                "type": "unknown"
+            }
+        }
+    },
+    "65": {
+        "description": "The 2008 United States Senate election in Oklahoma was held on November 4, 2008. The statewide primary election was held July 29, with the run-off on August 26. Incumbent Republican U.S. Senator James Inhofe won re-election to a third term over Democrat Andrew Rice.\n\nAs of 2020, this is the last time a Democrat carried any counties in an Oklahoma U.S. Senate election.",
+        "entities": {
+            "0": {
+                "entity name": "2008 United States Senate election in Oklahoma",
+                "point in time": "November 4, 2008",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Andrew Rice",
+                "member of political party": "Democrat",
+                "type": "unknown"
+            }
+        }
+    },
+    "66": {
+        "description": "Champagne Delamotte is a small producer of Champagne. Along with its \"sister\" winery Champagne Salon, Delamotte is the historical House of the Laurent-Perrier group.",
+        "entities": {
+            "0": {
+                "entity name": "Champagne Salon",
+                "type": "unknown"
+            }
+        }
+    },
+    "67": {
+        "description": "Algirdas Kau\u0161p\u0117das (born August 12, 1953, in Vilnius, Lithuania) is a Lithuanian rock musician, the leader of Lithuanian rock group Antis, an architect and one of the S\u0105j\u016bdis initiators. His wife Vilija Ulozait\u0117 is also an architect.",
+        "entities": {
+            "0": {
+                "entity name": "Algirdas Kau\u0161p\u0117das",
+                "place of birth": "Vilnius",
+                "date of birth": "August 12, 1953",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Vilnius",
+                "country": "Lithuania",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Antis",
+                "country of origin": "Lithuania",
+                "has part": "Algirdas Kau\u0161p\u0117das",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "S\u0105j\u016bdis",
+                "country": "Lithuania",
+                "type": "unknown"
+            }
+        }
+    },
+    "68": {
+        "description": "Eric Shawn is an American television news anchor and reporter for the Fox News Channel, based in Manhattan alongside co-anchor Arthel Neville.",
+        "entities": {
+            "0": {
+                "entity name": "Eric Shawn",
+                "country of citizenship": "American",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Fox News Channel",
+                "country": "American",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Arthel Neville",
+                "country of citizenship": "American",
+                "type": "unknown"
+            }
+        }
+    },
+    "69": {
+        "description": "Alisher Mukhtarov (born 26 May 1973) is a Uzbekistani judoka. He competed at the 1996 Summer Olympics and the 2000 Summer Olympics.",
+        "entities": {
+            "0": {
+                "entity name": "Alisher Mukhtarov",
+                "sport": "judo",
+                "date of birth": "26 May 1973",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "1996 Summer Olympics",
+                "followed by": "2000 Summer Olympics",
+                "type": "unknown"
+            }
+        }
+    },
+    "70": {
+        "description": "The Belarusian Social Democratic Party (Assembly) (, ) is a social-democratic political party in Belarus that opposes the government of president Alexander Lukashenko.",
+        "entities": {
+            "0": {
+                "entity name": "Belarusian Social Democratic Party (Assembly)",
+                "country": "Belarus",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Belarus",
+                "type": "unknown"
+            }
+        }
+    },
+    "71": {
+        "description": "Francis Capra (born April 27, 1983) is an American actor. He has played the roles of Max Connor in \"Kazaam\", and Eli \"Weevil\" Navarro in the TV series \"Veronica Mars\".",
+        "entities": {
+            "0": {
+                "entity name": "Francis Capra",
+                "date of birth": "April 27, 1983",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Eli \"Weevil\" Navarro",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Veronica Mars",
+                "type": "unknown"
+            }
+        }
+    },
+    "72": {
+        "description": "Otis Williams (born Otis Miles Jr.; October 30, 1941) is an American baritone singer. Nicknamed \"Big Daddy\", he is occasionally also a songwriter and a record producer.\n\nWilliams is the founder and last surviving original member of the Motown vocal group The Temptations, a group in which he continues to perform; he also owns the rights to the Temptations name.",
+        "entities": {
+            "0": {
+                "entity name": "Otis Williams",
+                "date of birth": "October 30, 1941",
+                "member of": "The Temptations",
+                "type": "unknown"
+            }
+        }
+    },
+    "73": {
+        "description": "Kashmir is the northernmost geographical region of the Indian subcontinent. Until the mid-19th century, the term \"Kashmir\" denoted only the Kashmir Valley between the Great Himalayas and the Pir Panjal Range. Today, the term encompasses a larger area that includes the Indian-administered territories of Jammu and Kashmir and Ladakh, the Pakistani-administered territories of Azad Kashmir and Gilgit-Baltistan, and Chinese-administered territories of Aksai Chin and the Trans-Karakoram Tract.\n\nIn the first half of the first millennium, the Kashmir region became an important centre of Hinduism and later of Buddhism; later still, in the ninth century, Kashmir Shaivism arose. In 1339, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the \"Salatin-i-Kashmir\" or Shah Mir dynasty. Kashmir was part of the Mughal Empire from 1586 to 1751, and thereafter, until 1820, of the Afghan Durrani Empire. That year, the Sikhs, under Ranjit Singh, annexed Kashmir. In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir. The rule of his descendants, under the \"paramountcy\" (or tutelage) of the British Crown, lasted until the partition of India in 1947, when the former princely state of the British Indian Empire became a disputed territory, now administered by three countries: India, Pakistan, and China.",
+        "entities": {
+            "0": {
+                "entity name": "Kashmir",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Kashmir Valley",
+                "mountain range": "Pir Panjal Range",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Mughal Empire",
+                "followed by": "Durrani Empire",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "First Anglo-Sikh War",
+                "followed by": "Treaty of Amritsar",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Treaty of Amritsar",
+                "follows": "First Anglo-Sikh War",
+                "type": "unknown"
+            },
+            "5": {
+                "entity name": "princely state",
+                "country": "British Indian Empire",
+                "type": "unknown"
+            },
+            "6": {
+                "entity name": "British Indian Empire",
+                "type": "unknown"
+            }
+        }
+    },
+    "74": {
+        "description": "Alberto Zamot (born 19 November 1942 in Utuado, Puerto Rico) is a Puerto Rican former basketball player who competed in the 1964 Summer Olympics and in the 1968 Summer Olympics.",
+        "entities": {
+            "0": {
+                "entity name": "Alberto Zamot",
+                "place of birth": "Utuado, Puerto Rico",
+                "country of citizenship": "Puerto Rican",
+                "sport": "basketball",
+                "participant in": "1968 Summer Olympics",
+                "date of birth": "19 November 1942",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Utuado, Puerto Rico",
+                "located in the administrative territorial entity": "Puerto Rican",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Puerto Rican",
+                "contains administrative territorial entity": "Utuado, Puerto Rico",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "1964 Summer Olympics",
+                "followed by": "1968 Summer Olympics",
+                "point in time": "1964",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "1968 Summer Olympics",
+                "follows": "1964 Summer Olympics",
+                "point in time": "1968",
+                "type": "unknown"
+            }
+        }
+    },
+    "75": {
+        "description": "The Fool and His Money is a puzzle game by Cliff Johnson. It is a self-published sequel to the 1987 game \"The Fool's Errand\". Like its predecessor, \"The Fool and His Money\" contains many different types of logic and word puzzles which, although centered on a story with a medieval tarot deck theme, have added elements of the Prince, Egyptian gods and Pirates.",
+        "entities": {
+            "0": {
+                "entity name": "The Fool and His Money",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "The Fool's Errand",
+                "publication date": "1987",
+                "type": "unknown"
+            }
+        }
+    },
+    "76": {
+        "description": "Lee Seoung-hyun (), born April 16, 1992, is a South Korean professional basketball player for the Goyang Orions of the Korean Basketball League.\n\nHe represented South Korea's national basketball team at the 2016 FIBA Asia Challenge, where he recorded most minutes for his team.",
+        "entities": {
+            "0": {
+                "entity name": "Lee Seoung-hyun",
+                "sport": "basketball",
+                "member of sports team": "Goyang Orions",
+                "date of birth": "April 16, 1992",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Goyang Orions",
+                "sport": "basketball",
+                "league": "Korean Basketball League",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Korean Basketball League",
+                "sport": "basketball",
+                "type": "unknown"
+            }
+        }
+    },
+    "77": {
+        "description": "The 2009 ICF Canoe Slalom World Championships were held on 9\u201313 September 2009 at Parc Ol\u00edmpic del Segre in La Seu d'Urgell, Spain under the auspices of International Canoe Federation. It was the 32nd edition. La Seu d'Urgell hosted the event previously in 1999. A demonstration event for women's single canoe (C1W) took place that was swept by Australia. Slovakia was the top medal winner with six, including three golds. Germany and Great Britain each won four medals with a gold medal each. Host nation Spain won their first medals ever at the championships with four (none gold).",
+        "entities": {
+            "0": {
+                "entity name": "2009 ICF Canoe Slalom World Championships",
+                "location": "La Seu d'Urgell",
+                "country": "Spain",
+                "point in time": "2009",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Parc Ol\u00edmpic del Segre",
+                "located in the administrative territorial entity": "La Seu d'Urgell",
+                "country": "Spain",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "La Seu d'Urgell",
+                "country": "Spain",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "1999",
+                "point in time": "1999",
+                "type": "unknown"
+            }
+        }
+    },
+    "78": {
+        "description": "Athlone Town Stadium, often referred to as Lissywollen () is the home stadium of Athlone Town. It has a seating capacity of 2,024 and an overall capacity of 5,000. The stadium was built in 2007, replacing St Mel's Park as the home of the club.\n\nIn November 2011, it was reported that Athlone Town had received a donation of \u20ac500,000 to wipe out debts incurred through the construction of the stadium.\n\nIn 2018, a dispute over ownership of Athlone Town Stadium arose between the club and local businessman Declan Molloy.\n\nThe club received grant funding to install artificial turf ahead of the 2019 Season.",
+        "entities": {
+            "0": {
+                "entity name": "Athlone Town Stadium",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Athlone Town",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "2019 Season",
+                "point in time": "2019",
+                "type": "unknown"
+            }
+        }
+    },
+    "79": {
+        "description": "Ponta do Sin\u00f3 is the southernmost point of the island of Sal in Cape Verde. It lies 2 km southwest of Santa Maria city centre. The area north of the headland is a protected area: nature reserve \"Ponta do Sin\u00f3\", at the edge of a large tourism development zone. There is a lighthouse on the headland, Farol da Ponta do Sin\u00f3, built in 1892.",
+        "entities": {
+            "0": {
+                "entity name": "Ponta do Sin\u00f3",
+                "country": "Cape Verde",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Sal",
+                "country": "Cape Verde",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Farol da Ponta do Sin\u00f3",
+                "inception": "1892",
+                "type": "unknown"
+            }
+        }
+    },
+    "80": {
+        "description": "Stepan (; ; ) is an urban-type settlement in Sarny Raion (district) of Rivne Oblast (province) in western Ukraine. Its population was 4,073 as of the 2001 Ukrainian Census. Current population: \n\nThe settlement is located in the historic Volhynia region of Ukraine, on the left bank of the Horyn, a tributary of the Prypiat.",
+        "entities": {
+            "0": {
+                "entity name": "Stepan",
+                "located in the administrative territorial entity": "Sarny Raion",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Sarny Raion",
+                "located in the administrative territorial entity": "Rivne Oblast",
+                "country": "Ukraine",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Rivne Oblast",
+                "contains administrative territorial entity": "Sarny Raion",
+                "country": "Ukraine",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Ukraine",
+                "contains administrative territorial entity": "Rivne Oblast",
+                "type": "unknown"
+            }
+        }
+    },
+    "81": {
+        "description": "Gregor Braun (born 31 December 1955) is a retired track cyclist and road bicycle racer from Germany, who was a professional rider from 1977 to 1989 and who became a multiple Olympic Gold medaillist and track world champion. his profession was a\u00a0locksmith.\n\nHe represented West Germany at the 1976 Summer Olympics in Montreal, Quebec, Canada, where he won the gold medal in both the men's individual pursuit and in the team pursuit with Peter Vonhof, Hans Lutz and G\u00fcnther Schumacher, corroborating their win a year before, also as amateurs, with capturing the gold in the men's team pursuit in the 1975 world championships in Montreal. The West German Olympic track team for 1976 was managed by former track champion Gustav Kilian.\nIn 1977 Braun turned professional, riding mostly on the road and proving himself a capable rider on the road by winning, \"inter alia\", the Giro di Sardegna (1983, 1980), the 14th stage of the 1983 Giro d'Italia, Kuurne-Brussel-Kuurne (1982), the Tre Valli Varesine (1981), Milano - Vignola (1981), the Deutschland Tour (1980), the Tour d'Indre-et-Loire (1979), the then Rund um den Henninger-Turm, three national road championships (1983, 1980, 1978) and ending on the podium in the 1982 Paris-Roubaix, the 1982 Amstel Gold Race and the 1978 Tour of Flanders.\n\nOn the track as a professional, Braun became world champion in the (then) 5k pursuit in the 1977 world championships and the 1978 track world championships and won bronze in this discipline in 1985. Furthermore, he won the 1979 European championships madison (with Patrick Sercu). \nAdditionally, Braun started in 44 (mostly German) six-day races, 4 to 6 per season, resulting in 11 wins, with Patrick Sercu (4 wins), Ren\u00e9 Pijnen (4x), Dietrich Thurau (2x) and Gert Frank (1x) and proving himself very well able to win these races when coupled with a top six-days rider.",
+        "entities": {
+            "0": {
+                "entity name": "Gregor Braun",
+                "sport": "track cyclist",
+                "date of birth": "31 December 1955",
+                "participant in": "1976 Summer Olympics",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "1976 Summer Olympics",
+                "location": "Montreal",
+                "point in time": "1976",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Peter Vonhof",
+                "participant in": "1976 Summer Olympics",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Hans Lutz",
+                "participant in": "1976 Summer Olympics",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "G\u00fcnther Schumacher",
+                "participant in": "1976 Summer Olympics",
+                "type": "unknown"
+            },
+            "5": {
+                "entity name": "1975 world championships",
+                "point in time": "1975",
+                "type": "unknown"
+            },
+            "6": {
+                "entity name": "1977 world championships",
+                "point in time": "1977",
+                "type": "unknown"
+            },
+            "7": {
+                "entity name": "1978 track world championships",
+                "point in time": "1978",
+                "type": "unknown"
+            },
+            "8": {
+                "entity name": "1985",
+                "point in time": "1985",
+                "type": "unknown"
+            },
+            "9": {
+                "entity name": "six-day races",
+                "type": "unknown"
+            }
+        }
+    },
+    "82": {
+        "description": "The 1993 Richmond Kickers season was the inaugural season for the club. In their first season of competitive soccer, the Kickers played in the United States Interregional Soccer League, which at the time served as the third division of the American soccer pyramid. The Kickers played their first season on the campus of the University of Richmond at the site of the former East Market Stadium. \n\nIn the inaugural season the Kickers played in the Atlantic Division, where they finished in fourth place in the division, qualifying for the play-in round of the playoffs. Richmond defeated the Charleston Battery, who would eventually become bitter rivals with the team, as they were some of the few surviving clubs from the early 90s, in the play-in round, before eventually losing to the Greensboro Dynamo in the divisional playoff semifinals.",
+        "entities": {
+            "0": {
+                "entity name": "1993 Richmond Kickers season",
+                "point in time": "1993",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Richmond Kickers",
+                "inception": "1993",
+                "type": "unknown"
+            }
+        }
+    },
+    "83": {
+        "description": "Moyross (Irish: \"Maigh Ruis\") is a council estate in Limerick, Ireland. It was developed in the 1970s and 1980s, and, up to 2008, the estate was unusual in that it spanned two electoral areas, with 728 houses part of the Ballynanty DED of Limerick City Council, and 432 houses in the Limerick North Rural DED of Limerick County Council. The city boundaries have since been redrawn so that the whole estate is now covered by the City Council. It comprises 1,160 houses which are divided into 12 parks. Moyross is currently the largest housing estate in Limerick city, and is located on the north side. \n\nNotable figures include Noel Hogan of the Cranberries and rugby player Keith Earls.",
+        "entities": {
+            "0": {
+                "entity name": "Noel Hogan",
+                "member of": "the Cranberries",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "the Cranberries",
+                "has part": "Noel Hogan",
+                "type": "unknown"
+            }
+        }
+    },
+    "84": {
+        "description": "Pentosyltransferases are a type of glycosyltransferase that catalyze the transfer of a pentose.\n\nExamples include:\n* adenine phosphoribosyltransferase\n* hypoxanthine-guanine phosphoribosyltransferase\n* pertussis toxin\n* poly ADP ribose polymerase\n\nThey are classified under EC number 2.4.2.",
+        "entities": {
+            "0": {
+                "entity name": "Pentosyltransferase",
+                "subclass of": "glycosyltransferase",
+                "type": "unknown"
+            }
+        }
+    },
+    "85": {
+        "description": "Ren\u00e9 Barret (6 August 1922 \u2013 28 November 2009) was a French racing cyclist. He rode in the 1947 Tour de France. Another Ren\u00e9 Barret participated to 1913 Tour de France.",
+        "entities": {
+            "0": {
+                "entity name": "Ren\u00e9 Barret",
+                "sport": "racing cyclist",
+                "date of birth": "6 August 1922",
+                "date of death": "28 November 2009",
+                "type": "unknown"
+            }
+        }
+    },
+    "86": {
+        "description": "George Washington Cable (October 12, 1844 \u2013 January 31, 1925) was an American novelist notable for the realism of his portrayals of Creole life in his native New Orleans, Louisiana. He has been called \"the most important southern artist working in the late 19th century\", as well as \"the first modern southern writer.\" In his treatment of racism, mixed-race families and miscegenation, his fiction has been thought to anticipate that of William Faulkner.\n\nHe also wrote articles critical of contemporary society. Due to hostility against him after two 1885 essays encouraging racial equality and opposing Jim Crow, Cable moved with his family to Northampton, Massachusetts. He lived there for the next thirty years, then moved to Florida.",
+        "entities": {
+            "0": {
+                "entity name": "George Washington Cable",
+                "place of birth": "New Orleans",
+                "date of birth": "October 12, 1844",
+                "date of death": "January 31, 1925",
+                "type": "unknown"
+            }
+        }
+    },
+    "87": {
+        "description": "The Flax Roughers' and Yarn Spinners' Trade Union was a trade union representing lower-paid workers in the flax industry in the north of Ireland.\n\nThe union was founded in 1890 as the Flax Roughers' Trade Union. Two earlier trade unions had previously represented workers in the industry, the Flax Roughers' Trade Union and Benevolent Trade Union Society, and an earlier Flax Roughers' Trade Union, but both had dissolved by 1881. By 1892, the new union had 1,244 members, and this remained at a fairly consistent level for many years, peaking at 1,495 in 1900 and still at 1,182 in 1915.\n\nThe union was based at Engineers' Hall on College Street in Belfast, where the Flax Dressers' Trade Union and the Power Loom Tenters' Trade Union of Ireland also had their headquarters. It affiliated to the Irish Trades Union Congress and to the Belfast Trades Council, where it played a prominent role.\n\nIn 1906, the union was renamed as the \"Flax Roughers' and Yarn Spinners' Trade Union\", and in 1924 attempted to broaden its membership by becoming the Flax and Other Textile Workers' Trade Union. It remained active until 1957.\n\nDawson Gordon was secretary of the union for more than 25 years.",
+        "entities": {
+            "0": {
+                "entity name": "Flax Roughers' and Yarn Spinners' Trade Union",
+                "inception": "1890",
+                "type": "unknown"
+            }
+        }
+    },
+    "88": {
+        "description": "The Manitoba Major Soccer League is an adult soccer system based in Manitoba, Canada. MMSL league are both indoor and outdoor. It is sanctioned by the Manitoba Soccer Association, a branch of the Canadian Soccer Association.\n\nThe highest level of amateur soccer in the province of Manitoba is the MMSL Premier Division. Winners of the MSA Cup are eligible to represent the province and compete for the Challenge Trophy, the highest national amateur cup competition in Canada sanctioned by the CSA.\n\nPlayers come with a variety of playing backgrounds, including high school, college, university, academies, semi-professional, and ex-professionals.",
+        "entities": {
+            "0": {
+                "entity name": "Manitoba Major Soccer League",
+                "sport": "soccer",
+                "country": "Canada",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Manitoba",
+                "country": "Canada",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Canada",
+                "contains administrative territorial entity": "Manitoba",
+                "type": "unknown"
+            }
+        }
+    },
+    "89": {
+        "description": "The Audu Bako School of Agriculture in Dambatta, Kano State, Nigeria, awards diplomas in technical and vocational subjects for middle-level manpower. In 2005 the college had 400 students.\nThe college was established in 2002 and is owned and operated by Kano State. It is accredited to offer courses in agricultural and related technology, and a pre-ND course in Science and Technology.\nIt is named after Audu Bako, a former governor of the state.\n\nIn November 2006, it was among a number of polytechnics for which the National Board for Technical Education suspended admission of students for either failing to secure accreditation or running foul of the law.",
+        "entities": {
+            "0": {
+                "entity name": "Audu Bako School of Agriculture",
+                "located in the administrative territorial entity": "Dambatta",
+                "country": "Nigeria",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Dambatta",
+                "located in the administrative territorial entity": "Kano State",
+                "country": "Nigeria",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Kano State",
+                "country": "Nigeria",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Nigeria",
+                "contains administrative territorial entity": "Kano State",
+                "type": "unknown"
+            }
+        }
+    },
+    "90": {
+        "description": "The Unified Communist Party of Georgia (, \"Sakartvelos Ertiani Komunisturi Partia\", abbreviated \"SEKP\") is a political party in Georgia. It was founded in June 1994 through the merger of the Stalin Society, the Georgian Workers Communist Party and the Union of Communists of Georgia. The party is member of Union of Communist Parties \u2014 Communist Party of the Soviet Union.\n\nThe party was led by Panteleimon Giorgadze. His son Igor Giorgadze was forced into exile after being accused of plotting to assassinate Eduard Shevardnadze. \n\nThe party publishes \"Komunisti\".",
+        "entities": {
+            "0": {
+                "entity name": "Unified Communist Party of Georgia",
+                "type": "political party"
+            }
+        }
+    },
+    "91": {
+        "description": "The Puerto Rican Bar Association (PRBA) is a voluntary association of lawyers of Puerto Rican ethnicity or interest. It is to be distinguished from the Bar Association of Puerto Rico or \"Colegio de Abogados de Puerto Rico\", which is the bar association of Puerto Rico.",
+        "entities": {
+            "0": {
+                "entity name": "Bar Association of Puerto Rico",
+                "located in the administrative territorial entity": "Puerto Rico",
+                "type": "unknown"
+            }
+        }
+    },
+    "92": {
+        "description": "Rafael P\u00f3lit Cevallos (1823 - 1897) was President of Ecuador from 1875 to 9 December 1875.\n\nHe studied at the Central University of Quito and joined the Conservative Party of Ecuador of Gabriel Garc\u00eda Moreno. He was President of the Municipal Council of Guayaquil and at 2 October 1875 he was elected President of the Senate. From 4 October 1875 - 9 December 1875 he was minister of foreign affairs and for a short time President of Ecuador to 9 December 1875. He was Minister of Finance in 1875.\n\nIn 1878 the government sent him in exile, but later he returned. On 2 May 1895 he became head of the government of Guayas, but resigned within a month.\n\nHe died on 23 October 1897 in Quito.",
+        "entities": {
+            "0": {
+                "entity name": "Rafael P\u00f3lit",
+                "country of citizenship": "Ecuador",
+                "educated at": "Central University",
+                "member of political party": "Conservative Party of Ecuador",
+                "date of death": "23 October 1897",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "President",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Ecuador",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "Central University",
+                "located in the administrative territorial entity": "Quito",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Gabriel Garc\u00eda Moreno",
+                "educated at": "Central University",
+                "member of political party": "Conservative Party of Ecuador",
+                "type": "unknown"
+            }
+        }
+    },
+    "93": {
+        "description": "Wayne Chisholm (born 1 May 1964) is an Australian former professional rugby league footballer who played for Manly-Warringah, South Sydney and North Sydney. He represented NSW City in the City vs Country Origin match in 1989.",
+        "entities": {
+            "0": {
+                "entity name": "Wayne Chisholm",
+                "sport": "rugby league",
+                "date of birth": "1 May 1964",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Manly-Warringah",
+                "sport": "rugby league",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "South Sydney",
+                "sport": "rugby league",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "North Sydney",
+                "sport": "rugby league",
+                "type": "unknown"
+            }
+        }
+    },
+    "94": {
+        "description": "Augustus Richard Norton (September 2, 1946 \u2013 February 20, 2019) was an American professor and army officer. He was a professor of international relations and anthropology at the Pardee School of Global Studies at Boston University. He was best known for his writing on Middle East politics, and as an occasional commentator on U.S. policy in the Middle East.",
+        "entities": {
+            "0": {
+                "entity name": "Augustus Richard Norton",
+                "occupation": "army officer",
+                "date of birth": "September 2, 1946",
+                "date of death": "February 20, 2019",
+                "type": "unknown"
+            }
+        }
+    },
+    "95": {
+        "description": "M. S. Ramaiah College of Law (MSRCL) is a law school located in Bangalore, Karnataka, India. It was founded by M. S. Ramaiah in 1995. The college is affiliated to Karnataka State Law University and recognized by Bar Council of India.",
+        "entities": {
+            "0": {
+                "entity name": "Karnataka, India",
+                "capital": "Bangalore",
+                "type": "unknown"
+            }
+        }
+    },
+    "96": {
+        "description": "West Grey is a township in western Ontario, Canada, in Grey County spanning across the River Styx, the Rocky Saugeen River, the Beatty Saugeen River, and the South Saugeen River. Unlike most rural communities, West Grey maintains its own police force, the West Grey Police Service.\n\nThe municipality was formed by order of the Province of Ontario on January 1, 2001 when the former Townships of Bentinck, Glenelg, and Normanby, the Village of Neustadt, and the Town of Durham were amalgamated in a county-wide reorganization. The controversy of the \u201cforced\u201d amalgamation still exists to this day.",
+        "entities": {
+            "0": {
+                "entity name": "West Grey",
+                "located in the administrative territorial entity": "Grey County",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Grey County",
+                "located in the administrative territorial entity": "Ontario",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Beatty Saugeen River",
+                "located in the administrative territorial entity": "Ontario",
+                "type": "unknown"
+            }
+        }
+    },
+    "97": {
+        "description": "Spartan Poker is an online poker gaming website based in India. It is one of India's prominent poker websites, offering cash games and tournaments. In 2020, the website broke multiple records hosting the India Online Poker Championship (IOPC) with over 2300 players participating. This edition saw an eventual prize pool of over 20.5 Crores being awarded, crushing the original guaranteed prize of 16+ Crores.",
+        "entities": {
+            "0": {
+                "entity name": "Spartan Poker",
+                "type": "unknown"
+            }
+        }
+    },
+    "98": {
+        "description": "The Pacific Symphonic Wind Ensemble is a Canadian wind band from the Metro Vancouver area in British Columbia. The ensemble's home venue is the Evergreen Cultural Centre in Coquitlam.\n\nThe PSWE was founded in 1981 by Maurice Backun in Vancouver, and consists of both professional and amateur musicians performing both traditional and alternative wind music from a variety of composers. The band features guest conductors and soloists. Marc Crompton became PSWE's Music Director in 1999.\n\nIn 2005, the ensemble were the guest artists at the 2005 World Association of Symphonic Bands and Ensembles conference in Singapore.",
+        "entities": {
+            "0": {
+                "entity name": "Pacific Symphonic Wind Ensemble",
+                "country": "Canadian",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Canadian",
+                "contains administrative territorial entity": "British Columbia",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Metro Vancouver",
+                "country": "Canadian",
+                "located in the administrative territorial entity": "British Columbia",
+                "type": "unknown"
+            },
+            "3": {
+                "entity name": "British Columbia",
+                "country": "Canadian",
+                "type": "unknown"
+            },
+            "4": {
+                "entity name": "Evergreen Cultural Centre",
+                "located in the administrative territorial entity": "Coquitlam",
+                "type": "unknown"
+            }
+        }
+    },
+    "99": {
+        "description": "Contienen or Kontienen was a quarter of western K\u00f6nigsberg, Germany. Its territory is now part of the Moskovsky District of Kaliningrad, Russia.",
+        "entities": {
+            "0": {
+                "entity name": "Contienen",
+                "located in the administrative territorial entity": "K\u00f6nigsberg",
+                "type": "unknown"
+            },
+            "1": {
+                "entity name": "Moskovsky District",
+                "located in the administrative territorial entity": "Kaliningrad",
+                "country": "Russia",
+                "type": "unknown"
+            },
+            "2": {
+                "entity name": "Kaliningrad",
+                "contains administrative territorial entity": "Moskovsky District",
+                "country": "Russia",
+                "type": "unknown"
+            }
+        }
+    }
+}

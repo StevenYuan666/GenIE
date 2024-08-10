@@ -1,10 +1,15 @@
 # import dotenv
 import hydra
 from omegaconf import DictConfig
+import os
 
 # load environment variables from `.env` file if it exists
 # recursively searches for `.env` in all folders starting from work dir
 # dotenv.load_dotenv(override=True)
+
+# Set the environment variable `HYDRA_FULL_ERROR` to 1 to get full traceback
+# in case of an error. Useful for debugging.
+os.environ["HYDRA_FULL_ERROR"] = "1"
 
 
 @hydra.main(config_path="configs", config_name="config")

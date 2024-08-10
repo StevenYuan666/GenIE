@@ -5,8 +5,8 @@ gpus: 1
 
 #min_epochs: 1
 #max_epochs: 10
-max_steps: 200000
-val_check_interval: 80000 # 10000 * accumulate_grad_batch
+max_steps: 5000
+val_check_interval: 922 # 10000 * accumulate_grad_batch
 
 weights_summary: null
 progress_bar_refresh_rate: 5
